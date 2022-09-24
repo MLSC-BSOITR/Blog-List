@@ -6,7 +6,7 @@ How to contribute ?
 4. You done with your contribution, celebrate!!
 
 
-{ "id": "7",
+`{ "id": "7",
 
 "blogTitle": "How to apply for GSOC",
 
@@ -17,4 +17,4 @@ How to contribute ?
 "blogTags": ["Open Source", "Developement", ""],
 
 "link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
-}
+}`
