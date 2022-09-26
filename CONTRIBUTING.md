@@ -6,19 +6,19 @@ How to contribute ?
 4. You done with your contribution, celebrate!!
 
 [
-{
+  {
 
-  "id": "7",
+    "id": "7",
 
-  "blogTitle": "How to apply for GSOC",
+    "blogTitle": "How to apply for GSOC",
 
-  "source": "Medium.com",
+    "source": "Medium.com",
 
-  "autherName": "AutherName",
+    "autherName": "AutherName",
 
-  "blogTags": ["Open Source", "Developement", ""],
+    "blogTags": ["Open Source", "Developement", ""],
 
-  "link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
-  
-}
+    "link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
+
+  }
 ]
