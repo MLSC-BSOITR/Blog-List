@@ -174,7 +174,19 @@
 "blogTags": ["Flutter"],
 
 "link": "https://medium.com/flutter/introducing-flutter-3-5eb69151622f"
-}, 
- 
+},
 
+{
+"id": "14",
+
+"blogTitle": "The Huffington Post",
+
+"source": "huffingtonpost.com",
+
+"autherName": " Arianna Huffington",
+
+"blogTags": ["Trading"],
+
+"link": "https://www.theguardian.com/technology/2008/mar"
+}, 
 ]
