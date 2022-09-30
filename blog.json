@@ -288,6 +288,7 @@
     "blogTags": ["Security", "Encryption"],
 
     "link": "https://dzone.com/articles/format-preserving-encryption"
+
   },
 
  {
@@ -305,4 +306,37 @@
 "link": "https://www.datasciencecentral.com/data-erasure-how-to-remove-your-information-from-the-internet/"
 }
 
+  }
+
+{
+  "id": "21",
+
+"blogTitle": " Ways to Learn Design Machines",
+
+"source": "creativemarket.com",
+
+"autherName": "Creative Market",
+
+"blogTags": ["Design"],
+
+"link": "https://creativemarket.com/blog/12-free-ways-to-learn-design"
+}, 
+
+
+{ 
+"id": "30",
+
+"blogTitle": " Blockchain Development: The Complete Guide to Getting Started  ",
+
+"source": "https://www.trio.dev",
+
+"autherName": "Anish Thakur",
+
+"blogTags": ["Open Source", "Developement", "Blockchain" , "crypto"],
+
+"link": "https://www.trio.dev/blog/blockchain-development-guide"
+}, 
+
+
 ]
+
