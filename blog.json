@@ -191,6 +191,7 @@
 "link": "https://www.theverge.com/2022/9/28/23375266/amazon-product-launch-fall-event-live-blog-announcements"
 }, 
 
+
 {
    "id": "15",
 
@@ -205,5 +206,61 @@
    "link": "https://www.smashingmagazine.com/category/javascript/"
 },
 
+
+"id": "16",
+
+"blogTitle": "The Huffington Post",
+
+"source": "Medium.com",
+
+"autherName": "Arianna Huffington",
+
+"blogTags": ["Open Source", "Developement", ""],
+
+"link": "huffingtonpost.com"
+}, 
+
+{
+"id": "17",
+
+"blogTitle": "Cambridge University Blog",
+
+"source": "blogs.cambridge.com",
+
+"autherName": "Sophia Phinish",
+
+"blogTags": ["Cambridge University"],
+
+"link": "https://www.cambridge.org/cn/academic/blogs"
+},
+
+{
+
+"id": "18",
+
+"blogTitle": "Cicket",
+
+"source": "Crickblog",
+
+"autherName": "Raju Asthana",
+
+"blogTags": ["Open Source", "Developement", ""],
+
+"link": "https://cricblog.net/"
+},
+
+{
+"id": "19",
+
+"blogTitle": "A simple guide to the Web3 stack",
+
+"source": "Coinbase",
+
+"autherName": "Connor Dempsey, Angie Wang, Justin Mart",
+
+"blogTags": ["Web3", "Blockchain"],
+
+"link": "https://www.coinbase.com/blog/a-simple-guide-to-the-web3-stack"
+}
 
 ]
