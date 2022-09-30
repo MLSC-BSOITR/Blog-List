@@ -605,9 +605,20 @@
     ],
     "link": "https://www.docker.com/blog/"
   },
+{
+  "id": "44",
+    "blogTitle": "DSA blog",
+    "source": "https://www.docker.com/blog/",
+    "autherName": "Crio",
+    "blogTags": [
+      "Competitive Programming", "DSA"
+    ],
+    "link": "https://www.crio.do/blog/tag/data-structures-and-algorithms/"
+  },
+
   
   {
-"id": "44",
+"id": "45",
 "blogTitle": "Roadmap for website development ",
 "source": "geeksforgeeks",
 "autherName": "geeks",
@@ -617,7 +628,7 @@
  
   
 {
-"id": "45",
+"id": "46",
 "blogTitle": "Roadmap for Game development ",
 "source": "code with harry",
 "autherName": "Harry",
@@ -625,3 +636,4 @@
 "link": "https://www.codewithharry.org/game-tutorial/"
 },
 ]
+
