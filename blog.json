@@ -27,7 +27,7 @@
   {
     "id": "3",
     "blogTitle": " Blockchain Development: The Complete Guide to Getting Started  ",
-    "source": "https://www.trio.dev",
+    "source": "https://mbaziira.hashnode.dev/",
     "autherName": "Anish Thakur",
     "blogTags": [
       "Open Source",
@@ -712,5 +712,16 @@
     ""
   ],
   "link": "https://medium.com/@boradesanket13/everything-you-need-to-know-about-flutter-3-0-4bf5f712dd3e"
-}
+},
+{
+  "id": "52",
+  "blogTitle": "Websites to get UI Inspiration",
+  "source": "https://mbaziira.hashnode.dev/",
+  "autherName": "mbaziira Ronald",
+  "blogTags": [
+    "UX",
+    "UI"
+  ],
+  "link": "https://mbaziira.hashnode.dev/websites-to-get-ui-inspiration"
+},
 ]
