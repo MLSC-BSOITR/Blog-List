@@ -288,11 +288,9 @@
     "blogTags": ["Security", "Encryption"],
 
     "link": "https://dzone.com/articles/format-preserving-encryption"
-  }
-
-
+  },
 {
-  "id" : "22",
+  "id" : "21",
  
  "blogTitle" : "How to list dot files in Linux",
  
@@ -303,6 +301,20 @@
  "blogTags" : ["Developement","Operatingsystems"],
  
  "link" : "https://theflashreads.com/001-list-files-with-dot/"
+},
+
+{
+  "id" : "22",
+ 
+ "blogTitle" : "how to lear english",
+ 
+ "source" : "google",
+ 
+ "authorName": "british council",
+ 
+ "blogTags" : ["learn enlish","english"],
+ 
+ "link" : "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiSme7z5Lz6AhWx2kwCHfWQAnoYABAAGgJ0bQ&ohost=www.google.com&cid=CAESa-D25Fbi4Tv-8MVbn8p0KsomXRUYjFQKnxqCwqF8n2lz_KhQGbBKk5i9t-PsyEzeVaQz59OEoFs0iGKLJdXTg7OZ2SUhK3DvIyML2NWTEC4x5hGmORABoKbf__r__BSHB6JDQxRnx-7ggzGG&sig=AOD64_1T8lVlsLlpu4pXo86aY6j9U6E-Ww&q&adurl&ved=2ahUKEwi96OXz5Lz6AhURzIsBHYdoAJ8Q0Qx6BAgKEAE"
 },
  
  
