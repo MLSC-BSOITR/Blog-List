@@ -517,7 +517,7 @@
       "Encryption"]
     
   },
-      
+  
    {
     "id": "42",
     "blogTitle": "Exploring Asynchronous Programming In Dart & Flutter",
@@ -568,6 +568,17 @@
 
 "link": "https://www.geeksforgeeks.org/web-tutorial/"
 },
+
+{
+    "id": "46",
+    "blogTitle": "New malware backdoors VMware ESXi servers to hijack virtual machines",
+    "source": "https://www.bleepingcomputer.com/news/security/new-malware-backdoors-vmware-esxi-servers-to-hijack-virtual-machines/",
+    "autherName": "Urvesh Thakkar",
+    "blogTags": [
+      "Security",
+      "Malware"
+   
+  }
 
  ]
 
