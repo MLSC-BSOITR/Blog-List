@@ -290,6 +290,7 @@
     "link": "https://dzone.com/articles/format-preserving-encryption"
   }
 
+
 {
   "id" : "22",
  
@@ -307,4 +308,69 @@
  
 
 
+
+ {
+
+"id": "07",
+
+"blogTitle": "9 Unusual Behaviours That Make People Respect You More",
+
+"source": "Medium.com",
+
+"autherName": "Taher Batterywala",
+
+"blogTags": ["Open Source", "informative"],
+
+"link": "https://medium.com/@taher-think-king/9-unusual-behaviours-that-make-people-respect-you-more-668af481b99f"
+} 
+
+{
+
+"id": "32",
+
+"blogTitle": " Alliance of Independent Authors",
+
+"source": "online",
+
+"autherName": "(Alli)",
+
+"link": "https://justpublishingadvice.com/five-must-read-blogs-for-self-publishing-authors/"
+}, 
+{ 
+"id": "32",
+
+"blogTitle": "Meme Monday ",
+
+"source": "https://dev.to/ben/meme-monday-5gf",
+
+"autherName": "Ben Halpern",
+
+"blogTags": ["Open Source", "meme"],
+
+"link": "https://dev.to/ben/meme-monday-5gf"
+}, 
+
+
 ]
+
+
+
+{ 
+
+"id": "117,
+
+"blogTitle": " Web 3.0 ",
+
+"source":" https://web3.foundation/ ",
+
+"autherName": "Swapnil Bansode",
+
+"blogTags": ["Open Source", "Developement", "Blockchain" , "crypto"],
+
+"link": "https://www.linkedin.com/in/swapnil-bansode-a2925124a"
+
+}, 
+
+
+
+
