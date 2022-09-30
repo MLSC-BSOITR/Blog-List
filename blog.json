@@ -288,71 +288,88 @@
     "blogTags": ["Security", "Encryption"],
 
     "link": "https://dzone.com/articles/format-preserving-encryption"
-  }
 
+  },
+  {
+    "id": "66",
 
-{
-  "id" : "22",
- 
- "blogTitle" : "How to list dot files in Linux",
- 
- "source" : "Flashreads",
- 
- "authorName": "Zoran Pandovski",
- 
- "blogTags" : ["Developement","Operatingsystems"],
- 
- "link" : "https://theflashreads.com/001-list-files-with-dot/"
-},
- 
- 
+    "blogTitle": "how to become an IAS officer: step by step guide",
 
+    "source": "jagran",
 
+    "autherName": "Wiki Catch",
+
+    "blogTags": ["UPSC","IAS"],
+
+    "link": "https://www.jagran.com/blogs/suhaabhaat/how-to-become-an-ias-officer/"
+
+  },
 
  {
 
-"id": "07",
+"id": "100",
 
-"blogTitle": "9 Unusual Behaviours That Make People Respect You More",
+"blogTitle": "Data Erasure: How to Remove your Information from the Internet?",
 
-"source": "Medium.com",
+"source": "datasciencecentral.com",
 
-"autherName": "Taher Batterywala",
+"autherName": "Anas Baig",
 
-"blogTags": ["Open Source", "informative"],
+"blogTags": ["Data Science", "Internet", "Cryptography"],
 
-"link": "https://medium.com/@taher-think-king/9-unusual-behaviours-that-make-people-respect-you-more-668af481b99f"
-} 
+"link": "https://www.datasciencecentral.com/data-erasure-how-to-remove-your-information-from-the-internet/"
+}
+
+  }
 
 {
+ "id": "198",
+ "blogTitle": "Cybersecurity ",
+ "source": "IBM",
+ "autherName": "Unknown",
+ "blogTags": ["Security"],
+ "link": "https://www.ibm.com/in-en/topics/cybersecurity"
+ }
+]
+ 
+ 
+ 
+ 
+ 
 
-"id": "32",
 
-"blogTitle": " Alliance of Independent Authors",
 
-"source": "online",
+{
+  "id": "21",
 
-"autherName": "(Alli)",
+"blogTitle": " Ways to Learn Design Machines",
 
-"link": "https://justpublishingadvice.com/five-must-read-blogs-for-self-publishing-authors/"
+"source": "creativemarket.com",
+
+"autherName": "Creative Market",
+
+"blogTags": ["Design"],
+
+"link": "https://creativemarket.com/blog/12-free-ways-to-learn-design"
 }, 
+
+
 { 
-"id": "32",
+"id": "30",
 
-"blogTitle": "Meme Monday ",
+"blogTitle": " Blockchain Development: The Complete Guide to Getting Started  ",
 
-"source": "https://dev.to/ben/meme-monday-5gf",
+"source": "https://www.trio.dev",
 
-"autherName": "Ben Halpern",
+"autherName": "Anish Thakur",
 
-"blogTags": ["Open Source", "meme"],
+"blogTags": ["Open Source", "Developement", "Blockchain" , "crypto"],
 
-"link": "https://dev.to/ben/meme-monday-5gf"
+"link": "https://www.trio.dev/blog/blockchain-development-guide"
 }, 
 
 
 ]
-
 
 
 { 
@@ -370,7 +387,6 @@
 "link": "https://www.linkedin.com/in/swapnil-bansode-a2925124a"
 
 }, 
-
 
 
 
