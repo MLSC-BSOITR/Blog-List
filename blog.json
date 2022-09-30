@@ -587,6 +587,16 @@
     ],
     "link": "https://www.docker.com/blog/"
   },
+{
+  "id": "43",
+    "blogTitle": "DSA blog",
+    "source": "https://www.docker.com/blog/",
+    "autherName": "Crio",
+    "blogTags": [
+      "Competitive Programming", "DSA"
+    ],
+    "link": "https://www.crio.do/blog/tag/data-structures-and-algorithms/"
+  },
 
  ]
 
