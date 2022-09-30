@@ -527,14 +527,14 @@
    
   },
 
+{
     "id": "42",
-    "blogTitle": "Docker Blog",
-    "source": "https://www.docker.com/blog/",
-    "autherName": "KARASTÉVAN LE MEUR",
+    "blogTitle": "Roadmap for Machine Learning",
+    "source": "Medium.com",
+    "autherName": "Mohsin Raza",
     "blogTags": [
-      "Docker", "docker swarm"
-    ],
-    "link": "https://www.docker.com/blog/"
+      "Data Science",
+      "Machine Learning" 
   },
 
 {
@@ -576,7 +576,17 @@
       "Security",
       "Malware"
    
-  }
+  },
+  {
+  "id": "42",
+    "blogTitle": "Docker Blog",
+    "source": "https://www.docker.com/blog/",
+    "autherName": "KARASTÉVAN LE MEUR",
+    "blogTags": [
+      "Docker", "docker swarm"
+    ],
+    "link": "https://www.docker.com/blog/"
+  },
 
  ]
 
