@@ -289,6 +289,22 @@
 
     "link": "https://dzone.com/articles/format-preserving-encryption"
   }
+
+{
+  "id": "21",
+
+"blogTitle": " Ways to Learn Design Machines",
+
+"source": "creativemarket.com",
+
+"autherName": "Creative Market",
+
+"blogTags": ["Design"],
+
+"link": "https://creativemarket.com/blog/12-free-ways-to-learn-design"
+}, 
+
+
 { 
 "id": "30",
 
@@ -302,4 +318,6 @@
 
 "link": "https://www.trio.dev/blog/blockchain-development-guide"
 }, 
+
 ]
+
