@@ -191,4 +191,19 @@
 "link": "https://www.theverge.com/2022/9/28/23375266/amazon-product-launch-fall-event-live-blog-announcements"
 }, 
 
+{
+   "id": "15",
+
+   "blogTitle": "Technical Leads About Javascript",
+
+   "source": "https://www.smashingmagazine.com/",
+
+   "autherName": "Vitaly Friedman and Sven Lennartz",
+
+   "blogTags": ["Books", "Workshops", "Conference"],
+
+   "link": "https://www.smashingmagazine.com/category/javascript/"
+},
+
+
 ]
