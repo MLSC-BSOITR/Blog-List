@@ -73,6 +73,21 @@
 
 }, 
 
+ {
+
+"id": "8",
+
+"blogTitle": "RHow to Start Coding: The Ultimate Guide for Beginner Programmers",
+
+"source": "blog.hubspot.com",
+
+"autherName": "Jamie Juviler",
+
+"blogTags": ["Coding"],
+
+"link": "https://blog.hubspot.com/website/how-to-start-coding"
+}, 
+
 {
  "id": "9",
 
@@ -87,7 +102,5 @@
 "link": "https://www.gamingbital.com/2022/03/best-gaming-chairs-2022.html" 
 }
   
-
-
  
 ]
