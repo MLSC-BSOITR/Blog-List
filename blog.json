@@ -192,7 +192,22 @@
 }, 
 
 
-"id": "15",
+{
+   "id": "15",
+
+   "blogTitle": "Technical Leads About Javascript",
+
+   "source": "https://www.smashingmagazine.com/",
+
+   "autherName": "Vitaly Friedman and Sven Lennartz",
+
+   "blogTags": ["Books", "Workshops", "Conference"],
+
+   "link": "https://www.smashingmagazine.com/category/javascript/"
+},
+
+
+"id": "16",
 
 "blogTitle": "The Huffington Post",
 
@@ -206,7 +221,7 @@
 }, 
 
 {
-"id": "16",
+"id": "17",
 
 "blogTitle": "Cambridge University Blog",
 
@@ -217,8 +232,11 @@
 "blogTags": ["Cambridge University"],
 
 "link": "https://www.cambridge.org/cn/academic/blogs"
-=======
-"id": "26",
+},
+
+{
+
+"id": "18",
 
 "blogTitle": "Cicket",
 
@@ -231,7 +249,8 @@
 "link": "https://cricblog.net/"
 },
 
-"id": "29",
+{
+"id": "19",
 
 "blogTitle": "A simple guide to the Web3 stack",
 
@@ -242,5 +261,6 @@
 "blogTags": ["Web3", "Blockchain"],
 
 "link": "https://www.coinbase.com/blog/a-simple-guide-to-the-web3-stack"
+}
 
 ]
