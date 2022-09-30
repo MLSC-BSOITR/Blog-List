@@ -517,5 +517,16 @@
       "Encryption"
    
   },
+      
+       {
+    "id": "42",
+    "blogTitle": "New malware backdoors VMware ESXi servers to hijack virtual machines",
+    "source": "https://www.bleepingcomputer.com/news/security/new-malware-backdoors-vmware-esxi-servers-to-hijack-virtual-machines/",
+    "autherName": "Urvesh Thakkar",
+    "blogTags": [
+      "Security",
+      "Malware"
+   
+  },
   
  ]
