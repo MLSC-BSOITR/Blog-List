@@ -28,15 +28,9 @@
 
 "link": "https://medium.com/@tanishpradhan26/roadmap-to-flutter-developer-a0852e292c6a"
 }, 
-  
-
  
- 
- 
- 
- 
- 
- "id": "5",
+{ 
+"id": "3",
 
 "blogTitle": " Blockchain Development: The Complete Guide to Getting Started  ",
 
@@ -50,23 +44,36 @@
 }, 
 
 {
+   "id": "4",
 
-"id": "6",
+   "blogTitle": "Top 5 Best Virtual Reality Headsets",
 
-"blogTitle": "How to learn English quickly: 10 tips",
+   "source": "techcrackblog.com",
 
-"source": "ef.com",
+   "autherName": "Romit Sharma",
 
-"autherName": "Erin",
+   "blogTags": ["Tech", "Developement", "Gaming"],
 
-"blogTags": ["English", ],
+   "link": "https://www.techcrackblog.com/2019/04/best-virtual-reality-systems.html"
+},
 
-"link": "https://www.ef.com/wwen/blog/language/how-to-learn-english-faster/"
+{
+
+"id": "5",
+
+"blogTitle": " roadmap for android development  ",
+
+"source": "geeksforgeeks",
+
+"autherName": "geeks",
+
+"blogTags": ["Open Source", "Developement"],
+
+"link": "https://www.geeksforgeeks.org/android-tutorial/"
 }, 
 
- {
-
-"id": "7",
+{
+"id": "6",
 
 "blogTitle": "10 Day Trading Tips for Beginners",
 
@@ -77,9 +84,100 @@
 "blogTags": ["Trading"],
 
 "link": "https://www.investopedia.com/articles/trading/06/daytradingretail.asp"
+
 }, 
 
+ {
+
 "id": "7",
+
+"blogTitle": "RHow to Start Coding: The Ultimate Guide for Beginner Programmers",
+
+"source": "blog.hubspot.com",
+
+"autherName": "Jamie Juviler",
+
+"blogTags": ["Coding"],
+
+"link": "https://blog.hubspot.com/website/how-to-start-coding"
+}, 
+
+{
+ "id": "8",
+
+"blogTitle": "Best Gaming chairs",
+
+"source": "Gamingbital.com",
+
+"autherName": "Viraj Devkar",
+
+"blogTags": ["Gamingchair", "Gaming", "Topgaming"],
+
+"link": "https://www.gamingbital.com/2022/03/best-gaming-chairs-2022.html" 
+},
+ 
+   {
+
+"id": "9",
+
+"blogTitle": "12 Free Ways to Learn Design",
+
+"source": "creativemarket.com",
+
+"autherName": "Creative Market",
+
+"blogTags": ["Design"],
+
+"link": "https://creativemarket.com/blog/12-free-ways-to-learn-design"
+}, 
+
+ {
+
+"id": "11",
+
+"blogTitle": "Microsoft Excel Tutorial for Beginners: Learn MS Excel in 7 Days",
+
+"source": "guru99.com",
+
+"autherName": "Susan Gipson
+",
+
+"blogTags": ["Excel"],
+
+"link": "https://www.guru99.com/excel-tutorials.html"
+}, 
+
+ {
+  "id": "12",
+
+ "blogTitle": "How to apply for Harvard University",
+
+ "source": "blogs.harvard.edu",
+
+ "autherName": "Akismet",
+
+ "blogTags": ["Application for Harvard Admissions", "Scholarships at Harvard" ],
+
+ "link": "https://blogs.harvard.edu/collegeadmissionsstudentblog/tag/application-tips/"
+ },
+ 
+ {
+
+"id": "13",
+
+"blogTitle": "Introducing Flutter 3",
+
+"source": "https://medium.com/flutter/introducing-flutter-3-5eb69151622f",
+
+"autherName": "Tim Sneath",
+
+"blogTags": ["Flutter"],
+
+"link": "https://medium.com/flutter/introducing-flutter-3-5eb69151622f"
+},
+
+{
+"id": "14",
 
 "blogTitle": "The Huffington Post",
 
@@ -91,5 +189,4 @@
 
 "link": "https://www.theguardian.com/technology/2008/mar"
 }, 
-  
 ]
