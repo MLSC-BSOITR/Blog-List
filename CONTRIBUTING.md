@@ -8,17 +8,17 @@ How to contribute ?
 [
   {
 
-    "id": "7",
+    "id": "118",
 
-    "blogTitle": "How to apply for GSOC",
+    "blogTitle": "How to apply for GDSC",
 
     "source": "Medium.com",
 
     "autherName": "AutherName",
 
-    "blogTags": ["Open Source", "Developement", ""],
+    "blogTags": ["Open Source", "Developement", "HACKTOBER"],
 
     "link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
 
-  }
+  },
 ]
