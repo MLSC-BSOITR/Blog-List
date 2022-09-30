@@ -190,6 +190,20 @@
 
 "link": "https://www.theverge.com/2022/9/28/23375266/amazon-product-launch-fall-event-live-blog-announcements"
 }, 
+{
+"id": "15",
+
+"blogTitle": "pride and prejudice",
+
+"source": "https://www.prideandprejudicepodcast.com/blog/",
+
+"autherName": "jane austen",
+
+
+"blogTags": ["Amazon"],
+
+"link": "https://www.prideandprejudicepodcast.com/blog/"
+}, 
 
 
 "id": "15",
@@ -204,5 +218,6 @@
 
 "link": "huffingtonpost.com"
 }, 
+
 
 ]
