@@ -435,7 +435,7 @@
    "link": "https://www.smashingmagazine.com/category/javascript/"
 },
 
-{
+
 "id": "36",
 
 "blogTitle": "The Huffington Post",
@@ -523,7 +523,8 @@
     "autherName": "Hemant Mandge",
     "blogTags": [
       "Security",
-      "Encryption"]
+      "Encryption"
+   
   },
 
 {
@@ -533,7 +534,7 @@
     "autherName": "Mohsin Raza",
     "blogTags": [
       "Data Science",
-      "Machine Learning" ]
+      "Machine Learning" 
   },
 
 {
@@ -553,7 +554,7 @@
     "autherName": "Peyton Jones",
     "blogTags": [
       " Church Plant Coaching."
-    ],
+    ]
     "link": "https://newbreedtraining.com/blog/?gclid=CjwKCAjwp9qZBhBkEiwAsYFsb6oerutPCFc7a5qtv1znl83USoTooJO8-jtkmcHXj5ARwmmV41OdLxoCdJ0QAvD_BwE"
   },
   
@@ -573,10 +574,42 @@
     "autherName": "Urvesh Thakkar",
     "blogTags": [
       "Security",
-      "Malware"]
+      "Malware"
+  }
+{
+    "id": "47",
+    "blogTitle": "Hacktobefest 2022: My Repo",
+    "source": "https://dev.to/zigrazor/hacktobefest-2022-my-repo-9bg",
+    "autherName": "ZigRazor",
+    "blogTags": "Hacktoberfest" [
+      
+   
+  }
+
+{
+    "id": "48",
+    "blogTitle": "How to Become a Faster Programmer",
+    "source": "Medium.com",
+    "autherName": "Marcin",
+    "blogTags": [
+      "Programming",
+      "Development" 
+      ""
+    ],
+    "link": "https://medium.com/javascript-in-plain-english/how-to-become-a-faster-programmer-8766815c20e2"
   },
+      
   {
-  "id": "42",
+  "id": "45",
+    "blogTitle": "Docker Blog",
+    "source": "https://www.docker.com/blog/",
+    "autherName": "KARASTÉVAN LE MEUR",
+    "blogTags": ["Docker", "docker swarm"],
+    "link": "https://www.docker.com/blog/"
+  },
+
+ {
+  "id": "43",
     "blogTitle": "Docker Blog",
     "source": "https://www.docker.com/blog/",
     "autherName": "KARASTÉVAN LE MEUR",
@@ -584,7 +617,69 @@
       "Docker", "docker swarm"
     ],
     "link": "https://www.docker.com/blog/"
-  }
+  },
+{
+  "id": "44",
+    "blogTitle": "DSA blog",
+    "source": "https://www.docker.com/blog/",
+    "autherName": "Crio",
+    "blogTags": [
+      "Competitive Programming", "DSA"
+    ],
+    "link": "https://www.crio.do/blog/tag/data-structures-and-algorithms/"
+  },
 
- ]
+  
+  {
+"id": "45",
+"blogTitle": "Roadmap for website development ",
+"source": "geeksforgeeks",
+"autherName": "geeks",
+"blogTags": ["coding","Development",""],
+"link": "https://www.geeksforgeeks.org/web-tutorial/"
+},
+ 
+  
+{
+"id": "46",
+"blogTitle": "Roadmap for Game development ",
+"source": "code with harry",
+"autherName": "Harry",
+"blogTags": ["coding","Development",""],
+"link": "https://www.codewithharry.org/game-tutorial/"
+},
 
+    "id": "57",
+    "blogTitle": "Roadmap to Flutter Developer",
+    "source": "Medium.com",
+    "autherName": "Tanish Pradhan",
+    "blogTags": [
+      "Open Source",
+      "Developement",
+      ""
+    ],
+    "link": "https://medium.com/@tanishpradhan26/roadmap-to-flutter-developer-a0852e292c6a"
+
+
+  {
+    "id": "47",
+    "blogTitle": "Format Preserving Encryption",
+    "source": "DZone",
+    "autherName": "Hemant Mandge",
+    "blogTags": [
+      "Security",
+      "Encryption"
+   
+  },
+      "id": "48",
+    "blogTitle": "Neil patel's Digital marketing blog",
+    "source": "https://digitalmarketinginstitute.com/blog",
+    "autherName": "Neil Patel",
+    "blogTags": [
+      "resource for digital marketing",
+      "trends",
+      ""
+    ],
+    "link": "https://www.youtube.com/watch?v=Y7LL4wowKqw&t=0s"
+  },
+]
