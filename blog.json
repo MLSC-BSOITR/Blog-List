@@ -43,7 +43,6 @@
 "link": "https://www.trio.dev/blog/blockchain-development-guide"
 }, 
 
-
 {
    "id": "4",
 
@@ -57,7 +56,6 @@
 
    "link": "https://www.techcrackblog.com/2019/04/best-virtual-reality-systems.html"
 },
-
 
 {
 
@@ -148,6 +146,21 @@
 
 "link": "https://www.guru99.com/excel-tutorials.html"
 }, 
+
+ {
+  "id": "12",
+
+ "blogTitle": "How to apply for Harvard University",
+
+ "source": "blogs.harvard.edu",
+
+ "autherName": "Akismet",
+
+ "blogTags": ["Application for Harvard Admissions", "Scholarships at Harvard" ],
+
+ "link": "https://blogs.harvard.edu/collegeadmissionsstudentblog/tag/application-tips/"
+ },
  
  
+
 ]
