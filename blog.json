@@ -700,4 +700,17 @@
 "blogTags": ["autobiography"],
 "link": "https://newbreedtraining.com/6-ways-studying-hermits/"
 },
+
+{
+  "id": "51",
+  "blogTitle": "Everything you need to know about Flutter 3.0",
+  "source": "Medium.com",
+  "autherName": "Sanket Borade",
+  "blogTags": [
+    "Flutter Development",
+    "Developement",
+    ""
+  ],
+  "link": "https://medium.com/@boradesanket13/everything-you-need-to-know-about-flutter-3-0-4bf5f712dd3e"
+}
 ]
