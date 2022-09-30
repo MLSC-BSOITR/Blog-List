@@ -13,6 +13,8 @@
 
 "link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
 }, 
+ 
+  
   
   {
 
@@ -261,6 +263,21 @@
 
 "link": "https://cricblog.net/"
 },
+{
+
+"id": "99",
+
+"blogTitle": "How to apply for GSOC",
+
+"source": "Medium.com",
+
+"autherName": "AutherName",
+
+"blogTags": ["Open Source", "Developement", ""],
+
+"link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
+}, 
+  
 
 {
 "id": "19",
