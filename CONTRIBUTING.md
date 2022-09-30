@@ -8,29 +8,17 @@ How to contribute ?
 [
   {
 
-    "id": "118",
+    "id": "128",
 
     "blogTitle": "How to apply for GDSC",
 
     "source": "Medium.com",
 
-    "autherName": "AutherName",
-
-    "blogTags": ["Open Source", "Developement", "HACKTOBER"],
-
-    "link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
-
-  },
-
-"id": "128",
-
-    "blogTitle": "How to apply for GDSC",
-
-    "source": "bsitor",
-
-    "autherName": "gdsc ",
+    "autherName": "GDSC BSIOTR",
 
     "blogTags": ["Open Source", " android Developement", "HACKTOBER"],
 
     "link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
+
+},
 ]
