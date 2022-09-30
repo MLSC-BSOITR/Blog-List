@@ -217,5 +217,17 @@
 "blogTags": ["Cambridge University"],
 
 "link": "https://www.cambridge.org/cn/academic/blogs"
+=======
+"id": "26",
+
+"blogTitle": "Cicket",
+
+"source": "Crickblog",
+
+"autherName": "Raju Asthana",
+
+"blogTags": ["Open Source", "Developement", ""],
+
+"link": "https://cricblog.net/"
 },
 ]
