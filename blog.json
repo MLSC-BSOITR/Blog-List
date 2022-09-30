@@ -288,5 +288,21 @@
     "blogTags": ["Security", "Encryption"],
 
     "link": "https://dzone.com/articles/format-preserving-encryption"
-  }
+  },
+
+ {
+
+"id": "100",
+
+"blogTitle": "Data Erasure: How to Remove your Information from the Internet?",
+
+"source": "datasciencecentral.com",
+
+"autherName": "Anas Baig",
+
+"blogTags": ["Data Science", "Internet", "Cryptography"],
+
+"link": "https://www.datasciencecentral.com/data-erasure-how-to-remove-your-information-from-the-internet/"
+}
+
 ]
