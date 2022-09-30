@@ -587,6 +587,15 @@
     ],
     "link": "https://www.docker.com/blog/"
   },
-
+ {
+  "id": "42",
+    "blogTitle": "Docker Blog",
+    "source": "https://www.docker.com/blog/",
+    "autherName": "KARASTÉVAN LE MEUR",
+    "blogTags": [
+      "Docker", "docker swarm"
+    ],
+    "link": "https://www.docker.com/blog/"
+  },
  ]
 
