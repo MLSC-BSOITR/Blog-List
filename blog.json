@@ -435,7 +435,7 @@
    "link": "https://www.smashingmagazine.com/category/javascript/"
 },
 
-
+{
 "id": "36",
 
 "blogTitle": "The Huffington Post",
@@ -523,8 +523,7 @@
     "autherName": "Hemant Mandge",
     "blogTags": [
       "Security",
-      "Encryption"
-   
+      "Encryption"]
   },
 
 {
@@ -534,7 +533,7 @@
     "autherName": "Mohsin Raza",
     "blogTags": [
       "Data Science",
-      "Machine Learning" 
+      "Machine Learning" ]
   },
 
 {
@@ -554,7 +553,7 @@
     "autherName": "Peyton Jones",
     "blogTags": [
       " Church Plant Coaching."
-    ]
+    ],
     "link": "https://newbreedtraining.com/blog/?gclid=CjwKCAjwp9qZBhBkEiwAsYFsb6oerutPCFc7a5qtv1znl83USoTooJO8-jtkmcHXj5ARwmmV41OdLxoCdJ0QAvD_BwE"
   },
   
@@ -574,8 +573,7 @@
     "autherName": "Urvesh Thakkar",
     "blogTags": [
       "Security",
-      "Malware"
-   
+      "Malware"]
   },
   {
   "id": "42",
@@ -586,7 +584,7 @@
       "Docker", "docker swarm"
     ],
     "link": "https://www.docker.com/blog/"
-  },
+  }
 
  ]
 
