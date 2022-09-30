@@ -586,6 +586,19 @@
    
   }
 
+{
+    "id": "48",
+    "blogTitle": "How to Become a Faster Programmer",
+    "source": "Medium.com",
+    "autherName": "Marcin",
+    "blogTags": [
+      "Programming",
+      "Development" 
+      ""
+    ],
+    "link": "https://medium.com/javascript-in-plain-english/how-to-become-a-faster-programmer-8766815c20e2"
+  },
+      
   {
   "id": "45",
     "blogTitle": "Docker Blog",
