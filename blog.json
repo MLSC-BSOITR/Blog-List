@@ -73,6 +73,21 @@
 }, 
 
 {
+
+"id": "77",
+
+"blogTitle": "finding projects in hactoberfest",
+
+"source": "blog.pradumnasaraf.co",
+
+"autherName": "Pradumna Saraf",
+
+"blogTags": ["Open Source", "Hactoberfest", ""],
+
+"link": "https://blog.pradumnasaraf.co/5-ways-to-find-projects-in-hacktoberfest?s=33"
+},
+
+{
 "id": "6",
 
 "blogTitle": "10 Day Trading Tips for Beginners",
@@ -288,18 +303,6 @@
     "blogTags": ["Security", "Encryption"],
 
     "link": "https://dzone.com/articles/format-preserving-encryption"
-
-
-  },
-  {
-    "id": "66",
-
-    "blogTitle": "how to become an IAS officer: step by step guide",
-
-    "source": "jagran",
-
-    "autherName": "Wiki Catch",
-
   },
 {
   "id" : "21",
@@ -332,78 +335,47 @@
  
 
 
-    "blogTags": ["UPSC","IAS"],
-
-    "link": "https://www.jagran.com/blogs/suhaabhaat/how-to-become-an-ias-officer/"
-
-  },
 
  {
 
-"id": "100",
+"id": "07",
 
-"blogTitle": "Data Erasure: How to Remove your Information from the Internet?",
+"blogTitle": "9 Unusual Behaviours That Make People Respect You More",
 
-"source": "datasciencecentral.com",
+"source": "Medium.com",
 
-"autherName": "Anas Baig",
+"autherName": "Taher Batterywala",
 
-"blogTags": ["Data Science", "Internet", "Cryptography"],
+"blogTags": ["Open Source", "informative"],
 
-"link": "https://www.datasciencecentral.com/data-erasure-how-to-remove-your-information-from-the-internet/"
-}
-
-  }
+"link": "https://medium.com/@taher-think-king/9-unusual-behaviours-that-make-people-respect-you-more-668af481b99f"
+} 
 
 {
- "id": "198",
- "blogTitle": "Cybersecurity ",
- "source": "IBM",
- "autherName": "Unknown",
- "blogTags": ["Security"],
- "link": "https://www.ibm.com/in-en/topics/cybersecurity"
- }
-]
- 
- 
- 
- 
- 
 
+"id": "32",
 
+"blogTitle": " Alliance of Independent Authors",
 
-{
-  "id": "21",
+"source": "online",
 
-"blogTitle": " Ways to Learn Design Machines",
+"autherName": "(Alli)",
 
-"source": "creativemarket.com",
-
-"autherName": "Creative Market",
-
-"blogTags": ["Design"],
-
-"link": "https://creativemarket.com/blog/12-free-ways-to-learn-design"
+"link": "https://justpublishingadvice.com/five-must-read-blogs-for-self-publishing-authors/"
 }, 
-
-
 { 
-"id": "30",
+"id": "32",
 
-"blogTitle": " Blockchain Development: The Complete Guide to Getting Started  ",
+"blogTitle": "Meme Monday ",
 
-"source": "https://www.trio.dev",
+"source": "https://dev.to/ben/meme-monday-5gf",
 
-"autherName": "Anish Thakur",
+"autherName": "Ben Halpern",
 
-"blogTags": ["Open Source", "Developement", "Blockchain" , "crypto"],
+"blogTags": ["Open Source", "meme"],
 
-"link": "https://www.trio.dev/blog/blockchain-development-guide"
+"link": "https://dev.to/ben/meme-monday-5gf"
 }, 
-
-
-]
-
 
 { 
 
@@ -422,11 +394,36 @@
 }, 
 
 {
+"id": "118",
 
-"id": "60",
+"blogTitle": "11 Beginner Tips for Learning Python Programming",
 
-"blogTitle": "Roadmap to Flutter Developer",
+"source": "realpython.com",
 
+"autherName": "Krishelle Hardson-Hurley",
+
+"blogTags": ["Python"],
+
+"link": "https://realpython.com/python-beginner-tips/"
+}, 
+
+{ 
+
+"id": "999",
+
+"blogTitle": "Gaming",
+
+"source":" https://kotaku.com/",
+
+"autherName": "kotaku team",
+
+"blogTags": ["gaming"],
+
+"link": "https://kotaku.com/"
+}, 
+
+
+{
 "source": "Medium.com",
 
 "autherName": "Tanish Pradhan",
@@ -434,20 +431,5 @@
 "blogTags": ["Open Source", "Developement", ""],
 
 "link": "https://medium.com/@tanishpradhan26/roadmap-to-flutter-developer-a0852e292c6a"
-}, 
-
- {
-
-"id": "119",
-
-"blogTitle": "How to learn web design (in 9 steps)",
-
-"source": "webflow.com",
-
-"autherName": "Jeff Cardello",
-
-"blogTags": ["Web Design"],
-
-"link": "https://webflow.com/blog/how-to-learn-web-design"
 }, 
 
