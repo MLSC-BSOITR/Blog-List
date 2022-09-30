@@ -28,15 +28,9 @@
 
 "link": "https://medium.com/@tanishpradhan26/roadmap-to-flutter-developer-a0852e292c6a"
 }, 
-  
-
  
- 
- 
- 
- 
- 
- "id": "5",
+{ 
+"id": "5",
 
 "blogTitle": " Blockchain Development: The Complete Guide to Getting Started  ",
 
@@ -64,8 +58,7 @@
 "link": "https://www.ef.com/wwen/blog/language/how-to-learn-english-faster/"
 }, 
 
- {
-
+{
 "id": "7",
 
 "blogTitle": "10 Day Trading Tips for Beginners",
@@ -77,6 +70,7 @@
 "blogTags": ["Trading"],
 
 "link": "https://www.investopedia.com/articles/trading/06/daytradingretail.asp"
+
 }, 
 
  {
@@ -93,5 +87,20 @@
 
 "link": "https://blog.hubspot.com/website/how-to-start-coding"
 }, 
+
+{
+ "id": "9",
+
+"blogTitle": "Best Gaming chairs",
+
+"source": "Gamingbital.com",
+
+"autherName": "Viraj Devkar",
+
+"blogTags": ["Gamingchair", "Gaming", "Topgaming"],
+
+"link": "https://www.gamingbital.com/2022/03/best-gaming-chairs-2022.html" 
+}
+  
  
 ]
