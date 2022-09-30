@@ -48,5 +48,17 @@
 
 "link": "https://www.trio.dev/blog/blockchain-development-guide"
 }, 
- 
+ {
+  "id": "7",
+
+ "blogTitle": "How to apply for Harvard University",
+
+ "source": "blogs.harvard.edu",
+
+ "autherName": "Akismet",
+
+ "blogTags": ["Application for Harvard Admissions", "Scholarships at Harvard" ],
+
+ "link": "https://blogs.harvard.edu/collegeadmissionsstudentblog/tag/application-tips/"
+ },
 ]
