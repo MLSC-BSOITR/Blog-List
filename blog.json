@@ -514,47 +514,21 @@
     "autherName": "Hemant Mandge",
     "blogTags": [
       "Security",
-      "Encryption"]
+      "Encryption"
+   
+  },
     
-  },
-      
-   {
+  {
     "id": "42",
-    "blogTitle": "Exploring Asynchronous Programming In Dart & Flutter",
-    "source": "Medium",
-    "autherName": "Shaiq Khan",
+    "blogTitle": "Docker Blog",
+    "source": "https://www.docker.com/blog/",
+    "autherName": "KARASTÉVAN LE MEUR",
     "blogTags": [
-      "Flutter",
-      "Dart"
-     ]   
-    "link": "https://medium.flutterdevs.com/exploring-asynchronous-programming-in-dart-flutter-25f341af32f" 
+      "Docker", "docker swarm"
+    ],
+    "link": "https://www.docker.com/blog/"
   },
 
-{
-
-"id": "43",
-
-"blogTitle": "finding projects in hactoberfest",
-
-"source": "blog.pradumnasaraf.co",
-
-"autherName": "Pradumna Saraf",
-
-"blogTags": ["Open Source", "Hactoberfest", ""],
-
-"link": "https://blog.pradumnasaraf.co/5-ways-to-find-projects-in-hacktoberfest?s=33"
-},
 
   
-   {
-    "id": "44",
-    "blogTitle": "You're Not Alone",
-    "source": "goggle",
-    "autherName": "Peyton Jones",
-    "blogTags": [
-      " Church Plant Coaching."
-    ]
-    "link": "https://newbreedtraining.com/blog/?gclid=CjwKCAjwp9qZBhBkEiwAsYFsb6oerutPCFc7a5qtv1znl83USoTooJO8-jtkmcHXj5ARwmmV41OdLxoCdJ0QAvD_BwE"
-  }
-
  ]
