@@ -516,7 +516,6 @@
       "Security",
       "Encryption"]
     
-   
   },
       
    {
@@ -529,6 +528,17 @@
       "Dart"
      ]   
     "link": "https://medium.flutterdevs.com/exploring-asynchronous-programming-in-dart-flutter-25f341af32f" 
-  }  
+  },
   
+   {
+    "id": "43",
+    "blogTitle": "You're Not Alone",
+    "source": "goggle",
+    "autherName": "Peyton Jones",
+    "blogTags": [
+      " Church Plant Coaching."
+    ]
+    "link": "https://newbreedtraining.com/blog/?gclid=CjwKCAjwp9qZBhBkEiwAsYFsb6oerutPCFc7a5qtv1znl83USoTooJO8-jtkmcHXj5ARwmmV41OdLxoCdJ0QAvD_BwE"
+  }
+
  ]
