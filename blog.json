@@ -635,5 +635,16 @@
 "blogTags": ["coding","Development",""],
 "link": "https://www.codewithharry.org/game-tutorial/"
 },
+
+  {
+    "id": "47",
+    "blogTitle": "Format Preserving Encryption",
+    "source": "DZone",
+    "autherName": "Hemant Mandge",
+    "blogTags": [
+      "Security",
+      "Encryption"
+   
+  },
 ]
 
