@@ -291,6 +291,24 @@
   }
 
 
+{
+  "id" : "22",
+ 
+ "blogTitle" : "How to list dot files in Linux",
+ 
+ "source" : "Flashreads",
+ 
+ "authorName": "Zoran Pandovski",
+ 
+ "blogTags" : ["Developement","Operatingsystems"],
+ 
+ "link" : "https://theflashreads.com/001-list-files-with-dot/"
+},
+ 
+ 
+
+
+
  {
 
 "id": "07",
@@ -331,6 +349,7 @@
 
 "link": "https://dev.to/ben/meme-monday-5gf"
 }, 
+
 
 ]
 
