@@ -529,9 +529,25 @@
      ]   
     "link": "https://medium.flutterdevs.com/exploring-asynchronous-programming-in-dart-flutter-25f341af32f" 
   },
+
+{
+
+"id": "43",
+
+"blogTitle": "finding projects in hactoberfest",
+
+"source": "blog.pradumnasaraf.co",
+
+"autherName": "Pradumna Saraf",
+
+"blogTags": ["Open Source", "Hactoberfest", ""],
+
+"link": "https://blog.pradumnasaraf.co/5-ways-to-find-projects-in-hacktoberfest?s=33"
+},
+
   
    {
-    "id": "43",
+    "id": "44",
     "blogTitle": "You're Not Alone",
     "source": "goggle",
     "autherName": "Peyton Jones",
