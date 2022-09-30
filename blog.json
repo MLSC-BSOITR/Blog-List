@@ -491,6 +491,15 @@
 
 "link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
 }, 
+
+{
+    "id": "49",
+    "blogTitle": "Android Basics with compose",
+    "source": "google",
+    "autherName": "Tezzz",
+    "blogTags": ["android","Android compose camp"],
+    "link": "https://developer.android.com/courses/android-basics-compose/course"
+},   
   
 
 {
@@ -517,8 +526,7 @@
       "Encryption"
    
   },
-    
-  {
+
     "id": "42",
     "blogTitle": "Docker Blog",
     "source": "https://www.docker.com/blog/",
@@ -529,6 +537,46 @@
     "link": "https://www.docker.com/blog/"
   },
 
+{
 
+"id": "43",
+"blogTitle": "finding projects in hactoberfest",
+"source": "blog.pradumnasaraf.co",
+"autherName": "Pradumna Saraf",
+"blogTags": ["Open Source", "Hactoberfest", ""],
+"link": "https://blog.pradumnasaraf.co/5-ways-to-find-projects-in-hacktoberfest?s=33"
+},
+
+   {
+    "id": "44",
+    "blogTitle": "You're Not Alone",
+    "source": "goggle",
+    "autherName": "Peyton Jones",
+    "blogTags": [
+      " Church Plant Coaching."
+    ]
+    "link": "https://newbreedtraining.com/blog/?gclid=CjwKCAjwp9qZBhBkEiwAsYFsb6oerutPCFc7a5qtv1znl83USoTooJO8-jtkmcHXj5ARwmmV41OdLxoCdJ0QAvD_BwE"
+  },
   
+  {
+"id": "45",
+"blogTitle": "Roadmap for website development ",
+"source": "geeksforgeeks",
+"autherName": "geeks",
+"blogTags": ["coding","Development",""],
+"link": "https://www.geeksforgeeks.org/web-tutorial/"
+},
+
+{
+    "id": "46",
+    "blogTitle": "New malware backdoors VMware ESXi servers to hijack virtual machines",
+    "source": "https://www.bleepingcomputer.com/news/security/new-malware-backdoors-vmware-esxi-servers-to-hijack-virtual-machines/",
+    "autherName": "Urvesh Thakkar",
+    "blogTags": [
+      "Security",
+      "Malware"
+   
+  }
+
  ]
+
