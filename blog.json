@@ -362,11 +362,6 @@
 "link": "https://dev.to/ben/meme-monday-5gf"
 }, 
 
-
-]
-
-
-
 { 
 
 "id": "117,
@@ -384,7 +379,6 @@
 }, 
 
 {
-
 "id": "118",
 
 "blogTitle": "11 Beginner Tips for Learning Python Programming",
@@ -398,5 +392,29 @@
 "link": "https://realpython.com/python-beginner-tips/"
 }, 
 
+{ 
 
+"id": "999",
+
+"blogTitle": "Gaming",
+
+"source":" https://kotaku.com/",
+
+"autherName": "kotaku team",
+
+"blogTags": ["gaming"],
+
+"link": "https://kotaku.com/"
+}, 
+
+
+{
+"source": "Medium.com",
+
+"autherName": "Tanish Pradhan",
+
+"blogTags": ["Open Source", "Developement", ""],
+
+"link": "https://medium.com/@tanishpradhan26/roadmap-to-flutter-developer-a0852e292c6a"
+}, 
 
