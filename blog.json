@@ -1,4 +1,5 @@
 [
+
   {
     "id": "1",
     "blogTitle": "How to apply for GSOC",
@@ -211,68 +212,310 @@
     ],
     "link": "https://www.coinbase.com/blog/a-simple-guide-to-the-web3-stack"
   },
+
+ {
+
+"id": "20",
+
+"blogTitle": "How to apply for GSOC",
+
+"source": "Medium.com",
+
+"autherName": "AutherName",
+
+"blogTags": ["Open Source", "Developement", ""],
+
+"link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
+}, 
+ 
+  
+  
   {
-    "id": "20",
+
+"id": "21",
+
+"blogTitle": "Roadmap to Flutter Developer",
+
+"source": "Medium.com",
+
+"autherName": "Tanish Pradhan",
+
+"blogTags": ["Open Source", "Developement", ""],
+
+"link": "https://medium.com/@tanishpradhan26/roadmap-to-flutter-developer-a0852e292c6a"
+}, 
+ 
+{ 
+"id": "22",
+
+"blogTitle": " Blockchain Development: The Complete Guide to Getting Started  ",
+
+"source": "https://www.trio.dev",
+
+"autherName": "Anish Thakur",
+
+"blogTags": ["Open Source", "Developement", "Blockchain" , "crypto"],
+
+"link": "https://www.trio.dev/blog/blockchain-development-guide"
+}, 
+
+{
+   "id": "23",
+
+   "blogTitle": "Top 5 Best Virtual Reality Headsets",
+
+   "source": "techcrackblog.com",
+
+   "autherName": "Romit Sharma",
+
+   "blogTags": ["Tech", "Developement", "Gaming"],
+
+   "link": "https://www.techcrackblog.com/2019/04/best-virtual-reality-systems.html"
+},
+
+{
+
+"id": "24",
+
+"blogTitle": " roadmap for android development  ",
+
+"source": "geeksforgeeks",
+
+"autherName": "geeks",
+
+"blogTags": ["Open Source", "Developement"],
+
+"link": "https://www.geeksforgeeks.org/android-tutorial/"
+}, 
+
+{
+"id": "25",
+
+"blogTitle": "10 Day Trading Tips for Beginners",
+
+"source": "investopedio.com",
+
+"autherName": "JUSTIN KUEPPER",
+
+"blogTags": ["Trading"],
+
+"link": "https://www.investopedia.com/articles/trading/06/daytradingretail.asp"
+
+}, 
+
+ {
+
+"id": "26",
+
+"blogTitle": "RHow to Start Coding: The Ultimate Guide for Beginner Programmers",
+
+"source": "blog.hubspot.com",
+
+"autherName": "Jamie Juviler",
+
+"blogTags": ["Coding"],
+
+"link": "https://blog.hubspot.com/website/how-to-start-coding"
+}, 
+
+{
+ "id": "28",
+
+"blogTitle": "Best Gaming chairs",
+
+"source": "Gamingbital.com",
+
+"autherName": "Viraj Devkar",
+
+"blogTags": ["Gamingchair", "Gaming", "Topgaming"],
+
+"link": "https://www.gamingbital.com/2022/03/best-gaming-chairs-2022.html" 
+},
+ 
+   {
+
+"id": "29",
+
+"blogTitle": "12 Free Ways to Learn Design",
+
+"source": "creativemarket.com",
+
+"autherName": "Creative Market",
+
+"blogTags": ["Design"],
+
+"link": "https://creativemarket.com/blog/12-free-ways-to-learn-design"
+}, 
+
+ {
+
+"id": "30",
+
+"blogTitle": "Microsoft Excel Tutorial for Beginners: Learn MS Excel in 7 Days",
+
+"source": "guru99.com",
+
+"autherName": "Susan Gipson",
+
+"blogTags": ["Excel"],
+
+"link": "https://www.guru99.com/excel-tutorials.html"
+}, 
+ {
+
+"id": "31",
+
+"blogTitle": "How to apply for GSOC",
+
+"source": "Medium.com",
+
+"autherName": "Ravindra Singh",
+
+"blogTags": ["Open Source", "Developement", ""],
+
+"link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
+}, 
+
+ {
+  "id": "32",
+
+ "blogTitle": "How to apply for Harvard University",
+
+ "source": "blogs.harvard.edu",
+
+ "autherName": "Akismet",
+
+ "blogTags": ["Application for Harvard Admissions", "Scholarships at Harvard" ],
+
+ "link": "https://blogs.harvard.edu/collegeadmissionsstudentblog/tag/application-tips/"
+ },
+ 
+ {
+
+"id": "33",
+
+"blogTitle": "Introducing Flutter 3",
+
+"source": "https://medium.com/flutter/introducing-flutter-3-5eb69151622f",
+
+"autherName": "Tim Sneath",
+
+"blogTags": ["Flutter"],
+
+"link": "https://medium.com/flutter/introducing-flutter-3-5eb69151622f"
+}, 
+
+ {
+
+"id": "34",
+
+"blogTitle": "Amazon Big Echo",
+
+"source": "https://www.theverge.com/2022/9/28/23375266/amazon-product-launch-fall-event-live-blog-announcements",
+
+"autherName": "Verge Staff",
+
+"blogTags": ["Amazon"],
+
+"link": "https://www.theverge.com/2022/9/28/23375266/amazon-product-launch-fall-event-live-blog-announcements"
+}, 
+
+
+{
+   "id": "35",
+
+   "blogTitle": "Technical Leads About Javascript",
+
+   "source": "https://www.smashingmagazine.com/",
+
+   "autherName": "Vitaly Friedman and Sven Lennartz",
+
+   "blogTags": ["Books", "Workshops", "Conference"],
+
+   "link": "https://www.smashingmagazine.com/category/javascript/"
+},
+
+
+"id": "36",
+
+"blogTitle": "The Huffington Post",
+
+"source": "Medium.com",
+
+"autherName": "Arianna Huffington",
+
+"blogTags": ["Open Source", "Developement", ""],
+
+"link": "huffingtonpost.com"
+}, 
+
+{
+"id": "37",
+
+"blogTitle": "Cambridge University Blog",
+
+"source": "blogs.cambridge.com",
+
+"autherName": "Sophia Phinish",
+
+"blogTags": ["Cambridge University"],
+
+"link": "https://www.cambridge.org/cn/academic/blogs"
+},
+
+{
+
+"id": "38",
+
+"blogTitle": "Cicket",
+
+"source": "Crickblog",
+
+"autherName": "Raju Asthana",
+
+"blogTags": ["Open Source", "Developement", ""],
+
+"link": "https://cricblog.net/"
+},
+{
+
+"id": "39",
+
+"blogTitle": "How to apply for GSOC",
+
+"source": "Medium.com",
+
+"autherName": "AutherName",
+
+"blogTags": ["Open Source", "Developement", ""],
+
+"link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
+}, 
+  
+
+{
+"id": "40",
+
+"blogTitle": "A simple guide to the Web3 stack",
+
+"source": "Coinbase",
+
+"autherName": "Connor Dempsey, Angie Wang, Justin Mart",
+
+"blogTags": ["Web3", "Blockchain"],
+
+"link": "https://www.coinbase.com/blog/a-simple-guide-to-the-web3-stack"
+},
+
+  {
+    "id": "41",
     "blogTitle": "Format Preserving Encryption",
     "source": "DZone",
     "autherName": "Hemant Mandge",
     "blogTags": [
       "Security",
       "Encryption"
-    ],
-    "link": "https://dzone.com/articles/format-preserving-encryption"
+   
   },
-  {
-    "id": "21",
-    "blogTitle": "How to list dot files in Linux",
-    "source": "Flashreads",
-    "authorName": "Zoran Pandovski",
-    "blogTags": [
-      "Developement",
-      "Operatingsystems"
-    ],
-    "link": "https://theflashreads.com/001-list-files-with-dot/"
-  },
-  {
-    "id": "22",
-    "blogTitle": "9 Unusual Behaviours That Make People Respect You More",
-    "source": "Medium.com",
-    "autherName": "Taher Batterywala",
-    "blogTags": [
-      "Open Source",
-      "informative"
-    ],
-    "link": "https://medium.com/@taher-think-king/9-unusual-behaviours-that-make-people-respect-you-more-668af481b99f"
-  },
-  {
-    "id": "23",
-    "blogTitle": " Alliance of Independent Authors",
-    "source": "online",
-    "autherName": "(Alli)",
-    "link": "https://justpublishingadvice.com/five-must-read-blogs-for-self-publishing-authors/"
-  },
-  {
-    "id": "24",
-    "blogTitle": "Meme Monday ",
-    "source": "https://dev.to/ben/meme-monday-5gf",
-    "autherName": "Ben Halpern",
-    "blogTags": [
-      "Open Source",
-      "meme"
-    ],
-    "link": "https://dev.to/ben/meme-monday-5gf"
-  },
-  {
-    "id": "25",
-    "blogTitle": " Web 3.0 ",
-    "source": " https://web3.foundation/ ",
-    "autherName": "Swapnil Bansode",
-    "blogTags": [
-      "Open Source",
-      "Developement",
-      "Blockchain",
-      "crypto"
-    ],
-    "link": "https://www.linkedin.com/in/swapnil-bansode-a2925124a"
-  }
-]
+  
+ ]
