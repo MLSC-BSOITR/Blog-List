@@ -517,5 +517,14 @@
       "Encryption"
    
   },
-  
+
+{
+    "id": "42",
+    "blogTitle": "Roadmap for Machine Learning",
+    "source": "Medium.com",
+    "autherName": "Mohsin Raza",
+    "blogTags": [
+      "Data Science",
+      "Machine Learning" 
+  },
  ]
