@@ -5,7 +5,7 @@ fetch("blog.json")
 // .then((response)=>response.json())
 .then(function(blogs){
     let placeholder=document.querySelector("#data-output");
-    let out="";
+    let out=";
     console.log(blogs);
     blogs.forEach((blog)=>{
         out+="<tr>";
