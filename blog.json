@@ -24,6 +24,7 @@
     ],
     "link": "https://medium.com/@tanishpradhan26/roadmap-to-flutter-developer-a0852e292c6a"
   },
+  
   {
     "id": "3",
     "blogTitle": " Blockchain Development: The Complete Guide to Getting Started  ",
@@ -37,6 +38,7 @@
     ],
     "link": "https://www.trio.dev/blog/blockchain-development-guide"
   },
+  
   {
     "id": "4",
     "blogTitle": "Top 5 Best Virtual Reality Headsets",
@@ -302,10 +304,25 @@
 "link": "https://www.investopedia.com/articles/trading/06/daytradingretail.asp"
 
 }, 
+  
+{
+"id": "26",
+
+"blogTitle": "Day Trading Tips for Beginners",
+
+"source": "investopedio.com",
+
+"autherName": "Patrick J adams",
+
+"blogTags": ["Day Trading"],
+
+"link": "https://www.investopedia.com/articles/trading/06/daytradingretail.asp"
+
+}, 
 
  {
 
-"id": "26",
+"id": "27",
 
 "blogTitle": "RHow to Start Coding: The Ultimate Guide for Beginner Programmers",
 
