@@ -772,5 +772,30 @@
       "Mobile App Developement",
     ],
     "link": "https://litslink.com/blog/stages-of-mobile-app-development-process"
-};
+}
+,
+  {
+    "id": "2",
+    "blogTitle": "Roadmap to Flutter Developer",
+    "source": "Medium.com",
+    "autherName": "Tanish Pradhan",
+    "blogTags": [
+      "Open Source",
+      "Developement",
+      ""
+    ],
+    "link": ",
+  {
+    "id": "56",
+    "blogTitle": "Best 30 Blogs on Medium",
+    "source": "findtom.com",
+    "autherName": "Thomas Kuegler",
+    "blogTags": [
+      
+      "Blogs",
+      ""
+    ],
+    "link": "https://medium.com/@tanishpradhan26/roadmap-to-flutter-developer-a0852e292c6a"
+  }"
+  }
 ]
