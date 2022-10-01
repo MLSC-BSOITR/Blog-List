@@ -9,7 +9,7 @@
       "Open Source",
       "Developement",
       ""
-    ],
+    },
     "link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
   },
   {
@@ -36,6 +36,20 @@
       "beginners course"
     ],
     "link": "https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/"
+  },
+  
+  {
+   "id": "757",
+
+   "blogTitle": "Implementing Material You Theming in Flutter",
+
+   "source": "https://dev.to/",
+
+   "autherName": "Vinay Tiparadi",
+
+   "blogTags": ["Flutter", "CodeLab", "Theming", "Android"],
+
+   "link": "https://dev.to/vinaytiparadi/implementing-android-12-material-yous-monet-theme-engine-in-flutter-20a8"
   },
   
   {
@@ -818,7 +832,7 @@
       "Open Source",
       "Developement",
       ""
-    ],
+    },
     "link": ",
   {
     "id": "56",
@@ -826,13 +840,11 @@
     "source": "findtom.com",
     "autherName": "Thomas Kuegler",
     "blogTags": [
-      
-      "Blogs",
+    "Blogs":"link": "https://medium.com/@tanishpradhan26/roadmap-to-flutter-developer-a0852e292c6a",
       ""
     ],
-    "link": "https://medium.com/@tanishpradhan26/roadmap-to-flutter-developer-a0852e292c6a"
-  }"
-  },
+   
+  
   {
     "id": "100",
     "blogTitle": "How To Learn ReactJS: A Complete Guide For Beginners",
@@ -849,5 +861,15 @@
     "autherName": "Vincent Granville",
     "blogTags": ["Data Cleaning","Data Science","Automation"],
     "link": "https://www.datasciencecentral.com/how-to-automate-data-cleaning-in-a-nutshell/"
-    }
+    },
+
+{
+  "id":"57",
+  "blogTitle":"Simple card hover animation using CSS",
+  "source":"dev.to",
+  "authorName":"Suman Roy",
+  "blogTags":["Front-end Development","UI","Vanilla CSS","Cards designing"],
+  "link":"https://dev.to/suman373_30/a-simple-card-hover-animation-for-beginners-5322"
+},
+
 ]
