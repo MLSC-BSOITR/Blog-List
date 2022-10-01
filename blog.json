@@ -39,6 +39,20 @@
   },
   
   {
+   "id": "757",
+
+   "blogTitle": "Implementing Material You Theming in Flutter",
+
+   "source": "https://dev.to/",
+
+   "autherName": "Vinay Tiparadi",
+
+   "blogTags": ["Flutter", "CodeLab", "Theming", "Android"],
+
+   "link": "https://dev.to/vinaytiparadi/implementing-android-12-material-yous-monet-theme-engine-in-flutter-20a8"
+  },
+  
+  {
     "id": "3",
     "blogTitle": " Blockchain Development: The Complete Guide to Getting Started  ",
     "source": "https://mbaziira.hashnode.dev/",
