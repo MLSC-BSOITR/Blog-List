@@ -704,8 +704,8 @@
 {
   "id": "51",
   "blogTitle": "Everything you need to know about Flutter 3.0",
-  "source": "Medium.com",
-  "autherName": "Sanket Borade",
+  "source": "https://en.wikipedia.org/",
+  "autherName": "Dennis Crouch",
   "blogTags": [
     "Flutter Development",
     "Developement",
@@ -724,4 +724,13 @@
   ],
   "link": "https://mbaziira.hashnode.dev/websites-to-get-ui-inspiration"
 },
+
+{
+    "id": "53",
+    "blogTitle": "Patent law blog",
+    "source": "https://en.wikipedia.org/",
+    "autherName": "Dennis Crouch",
+    ],
+    "link": "https://en.wikipedia.org/"
+  },
 ]
