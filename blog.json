@@ -9,7 +9,7 @@
       "Open Source",
       "Developement",
       ""
-    },
+    ],
     "link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
   },
   {
@@ -829,8 +829,7 @@
     "autherName": "Ryan Holiday",
     "blogTags": [
       "Open Source",
-      "Self-Developement",
-      ""
+      "Self-Developement"
     ],
     "link": "https://medium.com/@ryanholiday/this-is-the-most-important-decision-of-your-life-dac922cdd1de"
   },
@@ -841,20 +840,19 @@
     "autherName": "Tanish Pradhan",
     "blogTags": [
       "Open Source",
-      "Developement",
-      ""
-    },
-    "link": ",
-  {
+      "Developement"
+    ],
+    "link": "https://medium.com/@tanishpradhan26/roadmap-to-flutter-developer-a0852e292c6a",
+  },
+    {
     "id": "56",
     "blogTitle": "Best 30 Blogs on Medium",
-    "source": "findtom.com",
+    "source": "findingtom.com",
     "autherName": "Thomas Kuegler",
-    "blogTags": [
-    "Blogs":"link": "https://medium.com/@tanishpradhan26/roadmap-to-flutter-developer-a0852e292c6a",
-      ""
-    ],
-   
+    "blogTags": ["Blogs"],
+    
+    "link": "https://findingtom.com/best-medium-blogs-to-follow/"
+    },   
   
   {
     "id": "100",
@@ -882,5 +880,13 @@
   "blogTags":["Front-end Development","UI","Vanilla CSS","Cards designing"],
   "link":"https://dev.to/suman373_30/a-simple-card-hover-animation-for-beginners-5322"
 },
+  {
+    "id": "102",
+    "blogTitle": "Build a NoSQL Database From Scratch in 1000 Lines of Code",
+    "source": "Medium.com",
+    "autherName": "Amit Davidson",
+    "blogTags": ["Golang","NoSQL","LibraDB"],
+    "link": "https://www.datasciencecentral.com/how-to-automate-data-cleaning-in-a-nutshell/"
+  }
 
 ]
