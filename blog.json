@@ -772,8 +772,20 @@
       "Mobile App Developement",
     ],
     "link": "https://litslink.com/blog/stages-of-mobile-app-development-process"
-}
-,
+},
+
+ {
+    "id": "90",
+    "blogTitle": "This is the Most Important Decision of Your Life",
+    "source": "Medium.com",
+    "autherName": "Ryan Holiday",
+    "blogTags": [
+      "Open Source",
+      "Self-Developement",
+      ""
+    ],
+    "link": "https://medium.com/@ryanholiday/this-is-the-most-important-decision-of-your-life-dac922cdd1de"
+  },
   {
     "id": "2",
     "blogTitle": "Roadmap to Flutter Developer",
