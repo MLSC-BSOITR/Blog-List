@@ -855,4 +855,12 @@
     "blogTags": ["Frontend development", "React"],
     "link": "https://www.geeksforgeeks.org/how-to-learn-reactjs-a-complete-guide-for-beginners/"
     },
+{
+  "id":"57",
+  "blogTitle":"Simple card hover animation using CSS",
+  "source":"dev.to",
+  "authorName":"Suman Roy",
+  "blogTags":["Front-end Development","UI","Vanilla CSS","Cards designing"],
+  "link":"https://dev.to/suman373_30/a-simple-card-hover-animation-for-beginners-5322"
+}
 ]
