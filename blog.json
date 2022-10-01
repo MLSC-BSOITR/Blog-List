@@ -777,11 +777,11 @@
   "link": "https://medium.com/android-dev-hacks/kotlin-guide-for-beginners-5ba6018b5368"
 },
 
-
+  {
     "id": "53",
     "blogTitle": "Patent law blog",
     "source": "https://en.wikipedia.org/",
-    "autherName": "Dennis Crouch",
+    "autherName": ["Dennis Crouch"
     ],
     "link": "https://en.wikipedia.org/"
   },
@@ -792,7 +792,7 @@
     "source": "https://litslink.com",
     "autherName": "Iryna Deremuk",
     "blogTags": [
-      "Mobile App Developement",
+      "Mobile App Developement"
     ],
     "link": "https://litslink.com/blog/stages-of-mobile-app-development-process"
 },
@@ -841,4 +841,13 @@
     "blogTags": ["Frontend development", "React"],
     "link": "https://www.geeksforgeeks.org/how-to-learn-reactjs-a-complete-guide-for-beginners/"
     },
+
+  {
+    "id": "101",
+    "blogTitle": "How to Automate Data Cleaning, in a Nutshell",
+    "source": "Data Science Central",
+    "autherName": "Vincent Granville",
+    "blogTags": ["Data Cleaning","Data Science","Automation"],
+    "link": "https://www.datasciencecentral.com/how-to-automate-data-cleaning-in-a-nutshell/"
+    }
 ]
