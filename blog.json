@@ -880,6 +880,14 @@
   "blogTags":["Front-end Development","UI","Vanilla CSS","Cards designing"],
   "link":"https://dev.to/suman373_30/a-simple-card-hover-animation-for-beginners-5322"
 },
+{
+  "id":"67",
+  "blogTitle":"What Every Programmer Should know about Time",
+  "source":"unix4lyfe",
+  "authorName":" Derek Arnold",
+  "blogTags":["Front-end Development","UI","Vanilla CSS","Cards designing"],
+  "link":"https://unix4lyfe.org/time"
+},
   {
     "id": "102",
     "blogTitle": "Build a NoSQL Database From Scratch in 1000 Lines of Code",
