@@ -929,6 +929,13 @@
   "blogTags":["Agile","Waterfall","Software Development"],
   "link":"https://www.pluralsight.com/blog/software-development/transform-from-waterfall-to-agile-development"
 },
+  {  
+  "id":"kube01",
+  "blogTitle":"Prometheus Alertmanager | Use Cases and Tutorial",
+  "source":"containiq.com",
+  "blogTags":["Kube prometheus stack","Kubernetes","Minikube","Docker","devops","alerts","notification medium"],
+  "link":"https://www.containiq.com/post/prometheus-alertmanager"
+},
 
 
 ]
