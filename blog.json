@@ -903,7 +903,14 @@
     "autherName": "Amit Davidson",
     "blogTags": ["Golang","NoSQL","LibraDB"],
     "link": "https://www.datasciencecentral.com/how-to-automate-data-cleaning-in-a-nutshell/"
-  }
+  },
+  {  
+  "id":"115",
+  "blogTitle":"How to transform from Waterfall to Agile development",
+  "source":"pluralsight.com",
+  "blogTags":["Agile","Waterfall","Software Development"],
+  "link":"https://www.pluralsight.com/blog/software-development/transform-from-waterfall-to-agile-development"
+},
 
 
 ]
