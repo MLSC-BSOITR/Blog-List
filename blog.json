@@ -922,6 +922,19 @@
     "blogTags": ["Golang","NoSQL","LibraDB"],
     "link": "https://www.datasciencecentral.com/how-to-automate-data-cleaning-in-a-nutshell/"
   },
+  
+"id": "21",
+
+"blogTitle": "Flutter Developer",
+
+"source": "Medium.com",
+
+"autherName": "Tanish Pradhan",
+
+"blogTags": ["Open Source", "Developement", ""],
+
+"link": "https://medium.com/@tanishpradhan26/roadmap-to-flutter-developer-a0852e292c6a"
+}, 
   {  
   "id":"115",
   "blogTitle":"How to transform from Waterfall to Agile development",
