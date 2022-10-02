@@ -974,5 +974,20 @@
   "link":"https://www.containiq.com/post/prometheus-alertmanager"
 },
 
+{
+  "id" : "116",
+  "blogTitle" : "Google Flutter From Scratch",
+  "source" : "Tuts+ Code",
+  "blogTags" : ["Flutter", "Web development", "Mobile App Developement"],
+  "link" : "https://code.tutsplus.com/series/google-flutter-from-scratch--cms-1302"
+},
+{
+  "id": "117",
+  "blogTitle" : "JavaScript APIs You Don’t Know About",
+  "source" : "Smashing Magazine",
+  "blogTags" : ["JavaScript", "API", "Tools"],
+  "link" : "https://www.smashingmagazine.com/2022/09/javascript-api-guide/"
+}
+
 
 ]
