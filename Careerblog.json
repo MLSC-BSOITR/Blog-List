@@ -11,4 +11,12 @@
 "blogTags": ["Certificate", "Internship" ,"android Developement", "HACKTOBER"],
 
 "link": "https://www.youtube.com/channel/UCBm0hPI-ykEloE6c8Tf15Vw"
-}, ]
+}, 
+ {
+   "id":"29107",
+   "blogTitle":"A day in th life of pivotal Engineer",
+   "source":"career.com",
+   "AuthorName": "Navin thakur",
+   "link":"http://www.google.com"
+  }
+ ]
