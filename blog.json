@@ -1012,7 +1012,13 @@
 "blogTags": ["Open Source", " android Developement", "java", "python", "css"],
 
 "link": "https://www.codewithharry.com/"
-}
-
-
+},
+  {
+    "id": "76",
+    "blogTitle": "React Component Testing Using Cypress",
+    "source", "hashnode.com",
+    "authorName": "GeekyAnts",
+    "blogTags": ["Web development", "Javascript", "React"],
+    "link": "https://techblog.geekyants.com/react-component-testing-using-cypress"
+  }
 ]
