@@ -1026,6 +1026,14 @@
 "blogTags": ["Open Source", "Coding", "HACKTOBER"],
 
 "link": "https://medium.com/swlh/title-1692d9fb5ced"
-}
-  
+},
+
+  {
+    "id": "76",
+    "blogTitle": "React Component Testing Using Cypress",
+    "source", "hashnode.com",
+    "authorName": "GeekyAnts",
+    "blogTags": ["Web development", "Javascript", "React"],
+    "link": "https://techblog.geekyants.com/react-component-testing-using-cypress"
+  }
 ]
