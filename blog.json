@@ -1013,8 +1013,9 @@
 
 "link": "https://www.codewithharry.com/"
 },
-  
-"id": "119",
+
+{
+  "id": "119",
 
 "blogTitle": "Merge Sort",
 
@@ -1025,5 +1026,6 @@
 "blogTags": ["Open Source", "Coding", "HACKTOBER"],
 
 "link": "https://medium.com/swlh/title-1692d9fb5ced"
-
+}
+  
 ]
