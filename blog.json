@@ -1013,6 +1013,21 @@
 
 "link": "https://www.codewithharry.com/"
 },
+
+{
+  "id": "119",
+
+"blogTitle": "Merge Sort",
+
+"source": "Medium.com",
+
+"autherName": "Mohammad Yasir",
+
+"blogTags": ["Open Source", "Coding", "HACKTOBER"],
+
+"link": "https://medium.com/swlh/title-1692d9fb5ced"
+},
+
   {
     "id": "76",
     "blogTitle": "React Component Testing Using Cypress",
