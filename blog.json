@@ -1031,9 +1031,17 @@
   {
     "id": "76",
     "blogTitle": "React Component Testing Using Cypress",
-    "source", "hashnode.com",
+    "source": "hashnode.com",
     "authorName": "GeekyAnts",
     "blogTags": ["Web development", "Javascript", "React"],
     "link": "https://techblog.geekyants.com/react-component-testing-using-cypress"
+  },
+  {
+    "id": "135"
+    "blogTitle": "My Wonderful HTML Email Workflow",
+    "source": "https://www.joshwcomeau.com/",
+    "authorName": "josh",
+    "blogTags": ["React","Javascript"],
+    "link": "https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/"
   }
 ]
