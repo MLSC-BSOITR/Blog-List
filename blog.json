@@ -1029,20 +1029,29 @@
 },
 
   {
-    "id": "76",
+    "id": "120",
     "blogTitle": "React Component Testing Using Cypress",
-    "source", "hashnode.com",
+    "source": "hashnode.com",
     "authorName": "GeekyAnts",
     "blogTags": ["Web development", "Javascript", "React"],
     "link": "https://techblog.geekyants.com/react-component-testing-using-cypress"
   },
   
   {
-    "id" : "77"
+    "id" : "121"
     "blogTitle" : "Improving performance with SIMD intrinsics in three use cases"
     "source" : "stackoverflow.blog"
     "authorName" : "Konstantin"
     "blogTags" : ["C++","SIMD Intrinsics","vector intrinsics"]
     "link" : "https://stackoverflow.blog/2020/07/08/improving-performance-with-simd-intrinsics-in-three-use-cases/"
   },
+  {
+    "id": "122"
+    "blogTitle": "My Wonderful HTML Email Workflow",
+    "source": "https://www.joshwcomeau.com/",
+    "authorName": "josh",
+    "blogTags": ["React","Javascript"],
+    "link": "https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/"
+  }
+
 ]
