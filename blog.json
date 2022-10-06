@@ -1062,5 +1062,12 @@
     "blogTags": ["React","Javascript"],
     "link": "https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/"
   }
-
+  {
+    "id": "123"
+    "blogTitle": "Tesla’s New Battery Isn’t What They Said It Would Be",
+    "source": "Medium.com",
+    "authorName": "Will Lockett",
+    "blogTags": ["EV","Tesla"]
+    "link": "https://medium.com/predict/teslas-new-battery-isn-t-what-they-said-it-would-be-152a4463bbe8/"
+  }
 ]
