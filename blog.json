@@ -1035,5 +1035,14 @@
     "authorName": "GeekyAnts",
     "blogTags": ["Web development", "Javascript", "React"],
     "link": "https://techblog.geekyants.com/react-component-testing-using-cypress"
-  }
+  },
+  
+  {
+    "id" : "77"
+    "blogTitle" : "Improving performance with SIMD intrinsics in three use cases"
+    "source" : "stackoverflow.blog"
+    "authorName" : "Konstantin"
+    "blogTags" : ["C++","SIMD Intrinsics","vector intrinsics"]
+    "link" : "https://stackoverflow.blog/2020/07/08/improving-performance-with-simd-intrinsics-in-three-use-cases/"
+  },
 ]
