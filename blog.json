@@ -1035,5 +1035,22 @@
     "authorName": "GeekyAnts",
     "blogTags": ["Web development", "Javascript", "React"],
     "link": "https://techblog.geekyants.com/react-component-testing-using-cypress"
+  },
+  
+  {
+    
+  "id": "77",
+
+  "blogTitle": "A Moment of Jen",
+
+  "source": "blogspot.com",
+
+  "autherName": "Jennifer Weiner",
+
+  "blogTags": ["Story", "Writer", "Debating"],
+
+  "link": "http://jenniferweiner.blogspot.com/"
+  
   }
+  
 ]
