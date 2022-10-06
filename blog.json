@@ -1069,5 +1069,13 @@
     "authorName": "Will Lockett",
     "blogTags": ["EV","Tesla"]
     "link": "https://medium.com/predict/teslas-new-battery-isn-t-what-they-said-it-would-be-152a4463bbe8/"
+  },
+    {
+    "id": "124"
+    "blogTitle": "How to become a competitive programmer",
+    "source": "www.GeeksforGeeks.com",
+    "authorName": "madhur912",
+    "blogTags": ["Open Source", "Coding", "HACKTOBER"],
+    "link": "https://www.geeksforgeeks.org/how-to-get-started-with-competitive-programming/"
   }
 ]
