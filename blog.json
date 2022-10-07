@@ -1077,5 +1077,18 @@
     "authorName": "madhur912",
     "blogTags": ["Open Source", "Coding", "HACKTOBER"],
     "link": "https://www.geeksforgeeks.org/how-to-get-started-with-competitive-programming/"
-  }
+  },
+   {
+       "id": "125",
+
+       "blogTitle": "TechCrunch",
+
+       "source": "feedspot.com",
+
+       "autherName": "Rebecca Szkutak",
+
+       "blogTags": ["Open Source", "TECH"],
+
+       "link": "https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=4447421&q=site:https%3A%2F%2Ftechcrunch.com%2Ffeed%2F"
+   }
 ]
