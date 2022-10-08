@@ -1078,4 +1078,14 @@
     "blogTags": ["Open Source", "Coding", "HACKTOBER"],
     "link": "https://www.geeksforgeeks.org/how-to-get-started-with-competitive-programming/"
   }
+    {
+    "id": "125",
+    "blogTitle": "Cambridge University Blog",
+    "source": "blogs.cambridge.com",
+    "autherName": "Sophia Phinish",
+    "blogTags": [
+      "Cambridge University"
+    ],
+    "link": "https://www.cambridge.org/cn/academic/blogs"
+  },
 ]
