@@ -1078,6 +1078,16 @@
     "blogTags": ["Open Source", "Coding", "HACKTOBER"],
     "link": "https://www.geeksforgeeks.org/how-to-get-started-with-competitive-programming/"
   },
+
+{
+  "id": "131"
+  "blogTitle": "List of top web3 programming",
+  "source": "https://101blockchains.com",
+  "authorName": "james howell",
+  "blogTags": ["Web3","blockchian","Network"],
+  "link": "https://101blockchains.com/top-web3-programming-languages/"
+}
+
    {
        "id": "125",
 
@@ -1091,4 +1101,5 @@
 
        "link": "https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=4447421&q=site:https%3A%2F%2Ftechcrunch.com%2Ffeed%2F"
    }
+
 ]
