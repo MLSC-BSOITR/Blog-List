@@ -1147,25 +1147,31 @@
    }
 
 ]
-    {
+  {
     "id": "125"
     "blogTitle": "How to become a programmer",
     "source": "www.GeeksforGeeks.com",
     "authorName": "sathe912",
     "blogTags": ["Open Source", "Coding", "HACKTOBER"],
     "link": "https://www.geeksforgeeks.org/how-to-get-started-with-competitive-programming/" 
-
-
   }
-    {
+  {
     "id": "125",
     "blogTitle": "Cambridge University Blog",
     "source": "blogs.cambridge.com",
     "autherName": "Sophia Phinish",
-    "blogTags": [
-      "Cambridge University"
-    ],
+    "blogTags": ["Cambridge University"],
     "link": "https://www.cambridge.org/cn/academic/blogs"
+  },
+  {
+    "id": "126",
+    "blogTitle": "Apartment Therapy",
+    "source": "apartmenttherapy.com",
+    "autherName": "Courtney Balestier",
+    "blogTags": [
+      "These Are The Best Small Cities in America, According to Research"
+    ],
+    "link": "https://www.apartmenttherapy.com/"
   },
 
   
