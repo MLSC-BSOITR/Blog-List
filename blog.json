@@ -1103,3 +1103,12 @@
    }
 
 ]
+    {
+    "id": "125"
+    "blogTitle": "How to become a programmer",
+    "source": "www.GeeksforGeeks.com",
+    "authorName": "sathe912",
+    "blogTags": ["Open Source", "Coding", "HACKTOBER"],
+    "link": "https://www.geeksforgeeks.org/how-to-get-started-with-competitive-programming/"
+  }
+]
