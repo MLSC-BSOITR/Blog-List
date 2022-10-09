@@ -1078,6 +1078,7 @@
     "blogTags": ["Open Source", "Coding", "HACKTOBER"],
     "link": "https://www.geeksforgeeks.org/how-to-get-started-with-competitive-programming/"
   },
+
   {
     "id": "125",
 
@@ -1090,5 +1091,59 @@
     "blogTags": ["Open Source", "Sports", "HACKTOBER"],
 
     "link": "https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=4679176&q=site:ht%5Ctp%3A%2F%2Fwww.tmz.com%2Frss"
+
+
+  {
+    "id": "125"
+    "blogTitle": "Time and Space Complexity!!",
+    "source": "www.GeeksforGeeks.com",
+    "authorName": "Sandeep Jain",
+    "blogTags": ["DSA", "Coding", "FAANG"],
+    "link": "https://www.geeksforgeeks.org/time-complexity-and-space-complexity/"
+
+{
+  "id": "131"
+  "blogTitle": "List of top web3 programming",
+  "source": "https://101blockchains.com",
+  "authorName": "james howell",
+  "blogTags": ["Web3","blockchian","Network"],
+  "link": "https://101blockchains.com/top-web3-programming-languages/"
+}
+
+   {
+       "id": "125",
+
+       "blogTitle": "TechCrunch",
+
+       "source": "feedspot.com",
+
+       "autherName": "Rebecca Szkutak",
+
+       "blogTags": ["Open Source", "TECH"],
+
+       "link": "https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=4447421&q=site:https%3A%2F%2Ftechcrunch.com%2Ffeed%2F"
+   }
+
+]
+    {
+    "id": "125"
+    "blogTitle": "How to become a programmer",
+    "source": "www.GeeksforGeeks.com",
+    "authorName": "sathe912",
+    "blogTags": ["Open Source", "Coding", "HACKTOBER"],
+    "link": "https://www.geeksforgeeks.org/how-to-get-started-with-competitive-programming/" 
+
   }
+    {
+    "id": "125",
+    "blogTitle": "Cambridge University Blog",
+    "source": "blogs.cambridge.com",
+    "autherName": "Sophia Phinish",
+    "blogTags": [
+      "Cambridge University"
+    ],
+    "link": "https://www.cambridge.org/cn/academic/blogs"
+  },
+
+  
 ]
