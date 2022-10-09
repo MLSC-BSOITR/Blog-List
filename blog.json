@@ -156,7 +156,7 @@
   
   {
     "id": "10",
-    "blogTitle": "How to apply for GSOC",
+    "blogTitle": "machine-learning-models",
     "source": "dev.to",
     "autherName": "Yaswanth Teja",
     "blogTags": [
@@ -167,6 +167,7 @@
     ],
     "link": "https://dev.to/yaswanthteja/explanation-of-the-most-important-machine-learning-models-5c2a"
   },
+  
   {
     "id": "11",
     "blogTitle": "Microsoft Excel Tutorial for Beginners: Learn MS Excel in 7 Days",
@@ -177,7 +178,23 @@
     ],
     "link": "https://www.guru99.com/excel-tutorials.html"
   },
+  
+  
   {
+    "id": "12",
+    "blogTitle": "prediction-using-supervised-ml-1d9d",
+    "source": "dev.to",
+    "autherName": "Yaswanth Teja",
+    "blogTags": [
+      "Machine Learning"
+      "Ml Models",
+      "Developement",
+      ""
+    ],
+    "link": "https://dev.to/yaswanthteja/prediction-using-supervised-ml-1d9d"
+  },
+  {
+    
     "id": "55",
     "blogTitle": "Interview with a Pornhub Web Developer",
     "source": "davidwalsh.name",
