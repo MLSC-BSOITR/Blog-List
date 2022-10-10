@@ -1031,6 +1031,17 @@
   "blogTags" : ["JavaScript", "API", "Tools"],
   "link" : "https://www.smashingmagazine.com/2022/09/javascript-api-guide/"
 },
+   {
+    "id": "133",
+    "blogTitle": "RUST-The High Level Language",
+    "source": "https://tealfeed.com/",
+    "autherName": "Sala",
+    "blogTags": [
+      "Technology",
+      "Programming Language"
+    ],
+    "link": "https://tealfeed.com/rust-the-high-level-language-fdzqm"
+  },
 
 {
   "id": "118",
