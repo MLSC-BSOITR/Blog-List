@@ -156,7 +156,7 @@
   
   {
     "id": "10",
-    "blogTitle": "How to apply for GSOC",
+    "blogTitle": "machine-learning-models",
     "source": "dev.to",
     "autherName": "Yaswanth Teja",
     "blogTags": [
@@ -167,6 +167,7 @@
     ],
     "link": "https://dev.to/yaswanthteja/explanation-of-the-most-important-machine-learning-models-5c2a"
   },
+  
   {
     "id": "11",
     "blogTitle": "Microsoft Excel Tutorial for Beginners: Learn MS Excel in 7 Days",
@@ -177,7 +178,23 @@
     ],
     "link": "https://www.guru99.com/excel-tutorials.html"
   },
+  
+  
   {
+    "id": "12",
+    "blogTitle": "prediction-using-supervised-ml-1d9d",
+    "source": "dev.to",
+    "autherName": "Yaswanth Teja",
+    "blogTags": [
+      "Machine Learning"
+      "Ml Models",
+      "Developement",
+      ""
+    ],
+    "link": "https://dev.to/yaswanthteja/prediction-using-supervised-ml-1d9d"
+  },
+  {
+    
     "id": "55",
     "blogTitle": "Interview with a Pornhub Web Developer",
     "source": "davidwalsh.name",
@@ -1014,6 +1031,17 @@
   "blogTags" : ["JavaScript", "API", "Tools"],
   "link" : "https://www.smashingmagazine.com/2022/09/javascript-api-guide/"
 },
+   {
+    "id": "133",
+    "blogTitle": "RUST-The High Level Language",
+    "source": "https://tealfeed.com/",
+    "autherName": "Sala",
+    "blogTags": [
+      "Technology",
+      "Programming Language"
+    ],
+    "link": "https://tealfeed.com/rust-the-high-level-language-fdzqm"
+  },
 
 {
   "id": "118",
@@ -1175,5 +1203,17 @@
     "blogTags": ["Docker", "docker swarm"],
     "link": "https://www.docker.com/blog/clarifying-misconceptions-about-web3-and-its-relevance-with-docker/"
   }
+
+  {
+    "id": "126",
+    "blogTitle": "You are front-end developer? This is for you, Sample Data API",
+    "source": "https://dev.to/devsimc/you-are-front-end-developer-this-is-for-you-sample-data-api-10lb",
+    "autherName": "simc dev CSM",
+    "blogTags": [
+      'javascript','programming'
+    ],
+    "link": "https://dev.to/devsimc/you-are-front-end-developer-this-is-for-you-sample-data-api-10lb"
+  }
+
   
 ]
