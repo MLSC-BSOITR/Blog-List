@@ -1198,6 +1198,10 @@
 
        "link": "https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=4447421&q=site:https%3A%2F%2Ftechcrunch.com%2Ffeed%2F"
 
+]
+  {
+    "id": "125"
+
   },
 
 
@@ -1211,6 +1215,10 @@
     "authorName": "sathe912",
     "blogTags": ["Open Source", "Coding", "HACKTOBER"],
     "link": "https://www.geeksforgeeks.org/how-to-get-started-with-competitive-programming/" 
+  }
+  {
+    "id": "125",
+
 
 
   },
@@ -1219,6 +1227,7 @@
  },
     {
     "id": "132",
+ 
     "blogTitle": "Cambridge University Blog",
     "source": "blogs.cambridge.com",
     "autherName": "Sophia Phinish",
@@ -1226,6 +1235,15 @@
     "link": "https://www.cambridge.org/cn/academic/blogs"
   },
   {
+    "id": "126",
+    "blogTitle": "Apartment Therapy",
+    "source": "apartmenttherapy.com",
+    "autherName": "Courtney Balestier",
+    "blogTags": [
+      "These Are The Best Small Cities in America, According to Research"
+    ],
+    "link": "https://www.apartmenttherapy.com/"
+
     "id": "133",
     "blogTitle": "Why is phishing so efficient on mobile?",
     "source": "https://blog.pradeo.com/",
@@ -1238,6 +1256,7 @@
 
     "blogTags":["Cambridge University"],
     "link": "https://www.cambridge.org/cn/academic/blogs"
+
   },
   {
     "id": "126",
