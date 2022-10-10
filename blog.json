@@ -182,6 +182,21 @@
   
   {
     "id": "12",
+ 
+    "blogTitle": "best-way-to-learn-python",
+    "source": "dev.to",
+    "autherName": "Yaswanth Teja",
+    "blogTags": [
+      "Programming"
+      "python",
+      ""
+    ],
+    "link": "https://dev.to/yaswanthteja/best-way-to-learn-python-1-28d"
+  },
+  
+  
+  {
+
     "blogTitle": "prediction-using-supervised-ml-1d9d",
     "source": "dev.to",
     "autherName": "Yaswanth Teja",
