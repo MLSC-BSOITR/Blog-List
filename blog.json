@@ -1121,6 +1121,14 @@
     "blogTags": ["Open Source", "Coding", "HACKTOBER"],
     "link": "https://www.geeksforgeeks.org/how-to-get-started-with-competitive-programming/"
   },
+ {
+    "id": "130"
+    "blogTitle": "A Better Way To Approach Competitive Programming",
+    "source": "www.GeeksforGeeks.com",
+    "authorName": "ankur1999",
+    "blogTags": ["Open Source", "Coding", "HACKTOBER"],
+    "link": "https://www.geeksforgeeks.org/overcoming-common-problems-in-competitive-programming/"
+  },
 {
     "id": "125"
     "blogTitle": "How to learn data structures and algorithms",
