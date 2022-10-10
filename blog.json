@@ -1081,7 +1081,7 @@
   },
   
   { 
-  "id": "77",
+  "id": "121",
   "blogTitle": "A Moment of Jen",
   "source": "blogspot.com",
   "autherName": "Jennifer Weiner",
@@ -1090,7 +1090,7 @@
   
   },
   {
-    "id" : "121"
+    "id" : "122"
     "blogTitle" : "Improving performance with SIMD intrinsics in three use cases"
     "source" : "stackoverflow.blog"
     "authorName" : "Konstantin"
@@ -1098,7 +1098,7 @@
     "link" : "https://stackoverflow.blog/2020/07/08/improving-performance-with-simd-intrinsics-in-three-use-cases/"
   },
   {
-    "id": "122"
+    "id": "123"
     "blogTitle": "My Wonderful HTML Email Workflow",
     "source": "https://www.joshwcomeau.com/",
     "authorName": "josh",
@@ -1106,7 +1106,7 @@
     "link": "https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/"
   }
   {
-    "id": "123"
+    "id": "124"
     "blogTitle": "Tesla’s New Battery Isn’t What They Said It Would Be",
     "source": "Medium.com",
     "authorName": "Will Lockett",
@@ -1114,7 +1114,7 @@
     "link": "https://medium.com/predict/teslas-new-battery-isn-t-what-they-said-it-would-be-152a4463bbe8/"
   },
     {
-    "id": "124"
+    "id": "125"
     "blogTitle": "How to become a competitive programmer",
     "source": "www.GeeksforGeeks.com",
     "authorName": "madhur912",
@@ -1130,15 +1130,16 @@
     "link": "https://www.geeksforgeeks.org/overcoming-common-problems-in-competitive-programming/"
   },
 {
-    "id": "125"
+    "id": "126"
     "blogTitle": "How to learn data structures and algorithms",
     "source": "https://www.yourdevopsguy.com/",
     "authorName": "Sergio",
     "blogTags": ["Data Structures", "Algorithms","Problem-Solving"],
     "link": "https://www.yourdevopsguy.com/how-to-learn-data-structures-and-algorithms-20-problem-solving-techniques-you-must-know/"
+},
 
   {
-    "id": "125",
+    "id": "127",
 
     "blogTitle": "Draymond Green Taking Time Away From Warriors After Punching Jordan Poole",
 
@@ -1149,27 +1150,28 @@
     "blogTags": ["Open Source", "Sports", "HACKTOBER"],
 
     "link": "https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=4679176&q=site:ht%5Ctp%3A%2F%2Fwww.tmz.com%2Frss"
-
+  },
 
   {
-    "id": "125"
+    "id": "128"
     "blogTitle": "Time and Space Complexity!!",
     "source": "www.GeeksforGeeks.com",
     "authorName": "Sandeep Jain",
     "blogTags": ["DSA", "Coding", "FAANG"],
     "link": "https://www.geeksforgeeks.org/time-complexity-and-space-complexity/"
+},
 
 {
-  "id": "131"
+  "id": "129"
   "blogTitle": "List of top web3 programming",
   "source": "https://101blockchains.com",
   "authorName": "james howell",
   "blogTags": ["Web3","blockchian","Network"],
   "link": "https://101blockchains.com/top-web3-programming-languages/"
-}
+},
 
-   {
-       "id": "125",
+  {
+       "id": "130",
 
        "blogTitle": "TechCrunch",
 
@@ -1180,29 +1182,33 @@
        "blogTags": ["Open Source", "TECH"],
 
        "link": "https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=4447421&q=site:https%3A%2F%2Ftechcrunch.com%2Ffeed%2F"
-   }
-
-]
+   },
     {
-    "id": "125"
+    "id": "131"
     "blogTitle": "How to become a programmer",
     "source": "www.GeeksforGeeks.com",
     "authorName": "sathe912",
     "blogTags": ["Open Source", "Coding", "HACKTOBER"],
-    "link": "https://www.geeksforgeeks.org/how-to-get-started-with-competitive-programming/" 
-
-
-  }
+    "link": "https://www.geeksforgeeks.org/how-to-get-started-with-competitive-programming/"
+ },
     {
-    "id": "125",
+    "id": "132",
     "blogTitle": "Cambridge University Blog",
     "source": "blogs.cambridge.com",
     "autherName": "Sophia Phinish",
-    "blogTags": [
-      "Cambridge University"
-    ],
+    "blogTags":["Cambridge University"],
     "link": "https://www.cambridge.org/cn/academic/blogs"
   },
+
+{
+    "id": "133",
+    "blogTitle": "What is Mobile Threat Defense?",
+    "source": "https://blog.pradeo.com/",
+    "autherName": "Roxane Suau",
+    "blogTags":["pradeo"],
+    "link": "https://blog.pradeo.com/what-is-mobile-threat-defense"
+  },
+
  {
   "id": "999",
     "blogTitle": "Clarifying Misconceptions About Web3 and Its Relevance With Docker",
