@@ -364,7 +364,7 @@
 
    "link": "https://www.techcrackblog.com/2019/04/best-virtual-reality-systems.html"
 },
- {
+{
     "id": "97",
     "blogTitle": "Best Gaming chairs",
     "source": "Gamingbital.com",
@@ -1104,7 +1104,7 @@
     "authorName": "josh",
     "blogTags": ["React","Javascript"],
     "link": "https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/"
-  }
+  },
   {
     "id": "124"
     "blogTitle": "Tesla’s New Battery Isn’t What They Said It Would Be",
@@ -1121,6 +1121,8 @@
     "blogTags": ["Open Source", "Coding", "HACKTOBER"],
     "link": "https://www.geeksforgeeks.org/how-to-get-started-with-competitive-programming/"
   },
+  {
+
  {
     "id": "130"
     "blogTitle": "A Better Way To Approach Competitive Programming",
@@ -1136,6 +1138,8 @@
     "authorName": "Sergio",
     "blogTags": ["Data Structures", "Algorithms","Problem-Solving"],
     "link": "https://www.yourdevopsguy.com/how-to-learn-data-structures-and-algorithms-20-problem-solving-techniques-you-must-know/"
+  },
+
 },
 
   {
@@ -1150,7 +1154,11 @@
     "blogTags": ["Open Source", "Sports", "HACKTOBER"],
 
     "link": "https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=4679176&q=site:ht%5Ctp%3A%2F%2Fwww.tmz.com%2Frss"
+
+
   },
+  },
+
 
   {
     "id": "128"
@@ -1159,15 +1167,22 @@
     "authorName": "Sandeep Jain",
     "blogTags": ["DSA", "Coding", "FAANG"],
     "link": "https://www.geeksforgeeks.org/time-complexity-and-space-complexity/"
+
+  },
+  {
+
 },
 
 {
+
   "id": "129"
   "blogTitle": "List of top web3 programming",
   "source": "https://101blockchains.com",
   "authorName": "james howell",
   "blogTags": ["Web3","blockchian","Network"],
-  "link": "https://101blockchains.com/top-web3-programming-languages/"
+  "link": "https://101blockchains.com/top-web3-programming-languages/
+  },
+
 },
 
   {
@@ -1182,6 +1197,12 @@
        "blogTags": ["Open Source", "TECH"],
 
        "link": "https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=4447421&q=site:https%3A%2F%2Ftechcrunch.com%2Ffeed%2F"
+
+  },
+
+
+  {
+
    },
     {
     "id": "131"
@@ -1189,6 +1210,11 @@
     "source": "www.GeeksforGeeks.com",
     "authorName": "sathe912",
     "blogTags": ["Open Source", "Coding", "HACKTOBER"],
+    "link": "https://www.geeksforgeeks.org/how-to-get-started-with-competitive-programming/" 
+
+
+  },
+
     "link": "https://www.geeksforgeeks.org/how-to-get-started-with-competitive-programming/"
  },
     {
@@ -1196,6 +1222,20 @@
     "blogTitle": "Cambridge University Blog",
     "source": "blogs.cambridge.com",
     "autherName": "Sophia Phinish",
+    "blogTags": ["Cambridge University"],
+    "link": "https://www.cambridge.org/cn/academic/blogs"
+  },
+  {
+    "id": "133",
+    "blogTitle": "Why is phishing so efficient on mobile?",
+    "source": "https://blog.pradeo.com/",
+    "autherName": " Roxane Suau",
+    "blogTags": [
+      "pradeo"
+    ],
+    "link": "https://blog.pradeo.com/why-phishing-effective-mobile"
+  }
+
     "blogTags":["Cambridge University"],
     "link": "https://www.cambridge.org/cn/academic/blogs"
   },
@@ -1230,4 +1270,3 @@
   }
 
   
-]
