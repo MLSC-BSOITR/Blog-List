@@ -1305,5 +1305,14 @@
     "link": "https://dev.to/devsimc/you-are-front-end-developer-this-is-for-you-sample-data-api-10lb"
   }
 
+  {
+  "id": "126",
+  "blogTitle": "Is C# a strongly typed or a weakly typed language?",
+  "source": "learn.microsoft.com",
+  "autherName": "kexugit",
+  "blogTags": ["Open Source Coding", "C#" ],
+  "link": "https://learn.microsoft.com/en-us/archive/blogs/ericlippert/is-c-a-strongly-typed-or-a-weakly-typed-language"
+  }
+
   
  
