@@ -156,7 +156,7 @@
   
   {
     "id": "10",
-    "blogTitle": "How to apply for GSOC",
+    "blogTitle": "machine-learning-models",
     "source": "dev.to",
     "autherName": "Yaswanth Teja",
     "blogTags": [
@@ -167,6 +167,7 @@
     ],
     "link": "https://dev.to/yaswanthteja/explanation-of-the-most-important-machine-learning-models-5c2a"
   },
+  
   {
     "id": "11",
     "blogTitle": "Microsoft Excel Tutorial for Beginners: Learn MS Excel in 7 Days",
@@ -177,7 +178,23 @@
     ],
     "link": "https://www.guru99.com/excel-tutorials.html"
   },
+  
+  
   {
+    "id": "12",
+    "blogTitle": "prediction-using-supervised-ml-1d9d",
+    "source": "dev.to",
+    "autherName": "Yaswanth Teja",
+    "blogTags": [
+      "Machine Learning"
+      "Ml Models",
+      "Developement",
+      ""
+    ],
+    "link": "https://dev.to/yaswanthteja/prediction-using-supervised-ml-1d9d"
+  },
+  {
+    
     "id": "55",
     "blogTitle": "Interview with a Pornhub Web Developer",
     "source": "davidwalsh.name",
@@ -347,7 +364,7 @@
 
    "link": "https://www.techcrackblog.com/2019/04/best-virtual-reality-systems.html"
 },
- {
+{
     "id": "97",
     "blogTitle": "Best Gaming chairs",
     "source": "Gamingbital.com",
@@ -1014,6 +1031,17 @@
   "blogTags" : ["JavaScript", "API", "Tools"],
   "link" : "https://www.smashingmagazine.com/2022/09/javascript-api-guide/"
 },
+   {
+    "id": "133",
+    "blogTitle": "RUST-The High Level Language",
+    "source": "https://tealfeed.com/",
+    "autherName": "Sala",
+    "blogTags": [
+      "Technology",
+      "Programming Language"
+    ],
+    "link": "https://tealfeed.com/rust-the-high-level-language-fdzqm"
+  },
 
 {
   "id": "118",
@@ -1053,7 +1081,7 @@
   },
   
   { 
-  "id": "77",
+  "id": "121",
   "blogTitle": "A Moment of Jen",
   "source": "blogspot.com",
   "autherName": "Jennifer Weiner",
@@ -1062,7 +1090,7 @@
   
   },
   {
-    "id" : "121"
+    "id" : "122"
     "blogTitle" : "Improving performance with SIMD intrinsics in three use cases"
     "source" : "stackoverflow.blog"
     "authorName" : "Konstantin"
@@ -1070,15 +1098,15 @@
     "link" : "https://stackoverflow.blog/2020/07/08/improving-performance-with-simd-intrinsics-in-three-use-cases/"
   },
   {
-    "id": "122"
+    "id": "123"
     "blogTitle": "My Wonderful HTML Email Workflow",
     "source": "https://www.joshwcomeau.com/",
     "authorName": "josh",
     "blogTags": ["React","Javascript"],
     "link": "https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/"
-  }
+  },
   {
-    "id": "123"
+    "id": "124"
     "blogTitle": "Tesla’s New Battery Isn’t What They Said It Would Be",
     "source": "Medium.com",
     "authorName": "Will Lockett",
@@ -1086,23 +1114,36 @@
     "link": "https://medium.com/predict/teslas-new-battery-isn-t-what-they-said-it-would-be-152a4463bbe8/"
   },
     {
-    "id": "124"
+    "id": "125"
     "blogTitle": "How to become a competitive programmer",
     "source": "www.GeeksforGeeks.com",
     "authorName": "madhur912",
     "blogTags": ["Open Source", "Coding", "HACKTOBER"],
     "link": "https://www.geeksforgeeks.org/how-to-get-started-with-competitive-programming/"
   },
+  {
+
+ {
+    "id": "130"
+    "blogTitle": "A Better Way To Approach Competitive Programming",
+    "source": "www.GeeksforGeeks.com",
+    "authorName": "ankur1999",
+    "blogTags": ["Open Source", "Coding", "HACKTOBER"],
+    "link": "https://www.geeksforgeeks.org/overcoming-common-problems-in-competitive-programming/"
+  },
 {
-    "id": "125"
+    "id": "126"
     "blogTitle": "How to learn data structures and algorithms",
     "source": "https://www.yourdevopsguy.com/",
     "authorName": "Sergio",
     "blogTags": ["Data Structures", "Algorithms","Problem-Solving"],
     "link": "https://www.yourdevopsguy.com/how-to-learn-data-structures-and-algorithms-20-problem-solving-techniques-you-must-know/"
+  },
+
+},
 
   {
-    "id": "125",
+    "id": "127",
 
     "blogTitle": "Draymond Green Taking Time Away From Warriors After Punching Jordan Poole",
 
@@ -1115,25 +1156,37 @@
     "link": "https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=4679176&q=site:ht%5Ctp%3A%2F%2Fwww.tmz.com%2Frss"
 
 
+  },
+  },
+
+
   {
-    "id": "125"
+    "id": "128"
     "blogTitle": "Time and Space Complexity!!",
     "source": "www.GeeksforGeeks.com",
     "authorName": "Sandeep Jain",
     "blogTags": ["DSA", "Coding", "FAANG"],
     "link": "https://www.geeksforgeeks.org/time-complexity-and-space-complexity/"
 
+  },
+  {
+
+},
+
 {
-  "id": "131"
+
+  "id": "129"
   "blogTitle": "List of top web3 programming",
   "source": "https://101blockchains.com",
   "authorName": "james howell",
   "blogTags": ["Web3","blockchian","Network"],
-  "link": "https://101blockchains.com/top-web3-programming-languages/"
-}
+  "link": "https://101blockchains.com/top-web3-programming-languages/
+  },
 
-   {
-       "id": "125",
+},
+
+  {
+       "id": "130",
 
        "blogTitle": "TechCrunch",
 
@@ -1144,11 +1197,15 @@
        "blogTags": ["Open Source", "TECH"],
 
        "link": "https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=4447421&q=site:https%3A%2F%2Ftechcrunch.com%2Ffeed%2F"
-   }
 
-]
+  },
+
+
+  {
+
+   },
     {
-    "id": "125"
+    "id": "131"
     "blogTitle": "How to become a programmer",
     "source": "www.GeeksforGeeks.com",
     "authorName": "sathe912",
@@ -1156,15 +1213,30 @@
     "link": "https://www.geeksforgeeks.org/how-to-get-started-with-competitive-programming/" 
 
 
-  }
+  },
+
+    "link": "https://www.geeksforgeeks.org/how-to-get-started-with-competitive-programming/"
+ },
     {
-    "id": "125",
+    "id": "132",
     "blogTitle": "Cambridge University Blog",
     "source": "blogs.cambridge.com",
     "autherName": "Sophia Phinish",
+    "blogTags": ["Cambridge University"],
+    "link": "https://www.cambridge.org/cn/academic/blogs"
+  },
+  {
+    "id": "133",
+    "blogTitle": "Why is phishing so efficient on mobile?",
+    "source": "https://blog.pradeo.com/",
+    "autherName": " Roxane Suau",
     "blogTags": [
-      "Cambridge University"
+      "pradeo"
     ],
+    "link": "https://blog.pradeo.com/why-phishing-effective-mobile"
+  }
+
+    "blogTags":["Cambridge University"],
     "link": "https://www.cambridge.org/cn/academic/blogs"
   },
   {
@@ -1177,5 +1249,47 @@
     ],
     "link": "https://creativemarket.com/blog/12-free-ways-to-learn-design"
   },
+
+    "id": "126",
+    "blogTitle": " Blockchain Development: The Complete Guide to Getting Started  ",
+    "source": "https://mbaziira.hashnode.dev/",
+    "autherName": "Anish Thakur",
+    "blogTags": [
+      "Open Source",
+      "Developement",
+      "Blockchain",
+      "crypto"
+    ],
+    "link": "https://www.trio.dev/blog/blockchain-development-guide"
+  },
+
+{
+    "id": "133",
+    "blogTitle": "What is Mobile Threat Defense?",
+    "source": "https://blog.pradeo.com/",
+    "autherName": "Roxane Suau",
+    "blogTags":["pradeo"],
+    "link": "https://blog.pradeo.com/what-is-mobile-threat-defense"
+  },
+
+ {
+  "id": "999",
+    "blogTitle": "Clarifying Misconceptions About Web3 and Its Relevance With Docker",
+    "source": "https://www.docker.com/blog/",
+    "autherName": "MARTON ELEK",
+    "blogTags": ["Docker", "docker swarm"],
+    "link": "https://www.docker.com/blog/clarifying-misconceptions-about-web3-and-its-relevance-with-docker/"
+  }
+
+  {
+    "id": "126",
+    "blogTitle": "You are front-end developer? This is for you, Sample Data API",
+    "source": "https://dev.to/devsimc/you-are-front-end-developer-this-is-for-you-sample-data-api-10lb",
+    "autherName": "simc dev CSM",
+    "blogTags": [
+      'javascript','programming'
+    ],
+    "link": "https://dev.to/devsimc/you-are-front-end-developer-this-is-for-you-sample-data-api-10lb"
+  }
+
   
-]
