@@ -1342,7 +1342,21 @@
     "autherName": "MARTON ELEK",
     "blogTags": ["Docker", "docker swarm"],
     "link": "https://www.docker.com/blog/clarifying-misconceptions-about-web3-and-its-relevance-with-docker/"
+  },
+  {
+    "id": "129",
+    "blogTitle": "Quick 5 Minutes Guide to CI/CD pipelining using Docker + Circle-CI",
+    "source": "https://medium.com/",
+    "autherName": "Sangam Biradar",
+    "blogTags": ["Docker"],
+    "link": "https://medium.com/@sangambiradar/quick-5-minutes-guide-to-ci-cd-pipelining-using-docker-circle-ci-f8ac92928c9b"
+  },
   }
+
+
+
+
+
 
   {
     "id": "126",
