@@ -1410,6 +1410,16 @@
   "blogTags": ["Web 3.0", "Blockchain", "NFT"],
   "link": "https://www.namecheap.com/blog/web-3-0-metaverse/?gclid=EAIaIQobChMIr5udyKfX-gIVB7eWCh38SQ9pEAAYASAAEgKfdfD_BwE"
   }
+ {
+    "id": "250",
+    "blogTitle": "Format Preserving Encryption",
+    "source": "DZone",
+    "autherName": "Hemant Mandge",
+    "blogTags": [
+      "Security",
+      "Encryption"]
+   
+  }
 ]
  {
     "id": "203",
