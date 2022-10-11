@@ -1364,6 +1364,7 @@
   "link": "https://learn.microsoft.com/en-us/archive/blogs/ericlippert/is-c-a-strongly-typed-or-a-weakly-typed-language"
   }
 
+
   {
     "id": "201",
     "blogTitle": "Complete Blockchain Development: The Complete Guide to Getting Started  ",
@@ -1385,6 +1386,16 @@
   "autherName": "devy",
   "blogTags": ["Blockchain", "Web3" ],
   "link": "https://moralis.io/web3-music-platform-create-a-web3-music-streaming-service/"
+  },
+  {
+    "id": "211",
+    "blogTitle": "RHow to Start Coding: The Ultimate Guide for Beginner Programmers",
+    "source": "blog.hubspot.com",
+    "autherName": "Jamie Juviler",
+    "blogTags": [
+      "Coding"
+    ],
+    "link": "https://blog.hubspot.com/website/how-to-start-coding"
   },
  
 
