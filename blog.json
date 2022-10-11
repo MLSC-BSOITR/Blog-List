@@ -193,7 +193,19 @@
     ],
     "link": "https://dev.to/yaswanthteja/best-way-to-learn-python-1-28d"
   },
-  
+  {
+    "id": "337",
+    "blogTitle": " Best Blockchain Books for Beginners and Experienced Developers",
+    "source": "Medium.com",
+    "autherName": "javarevisited",
+    "blogTags": [
+      "Blockchain technology ",
+      "Blockchain Basics",
+      "Hands-On Blockchain for Python Developers",
+      "Blockchain Programming with JavaScript"
+    ],
+    "link": "https://medium.com/javarevisited/5-best-blockchain-books-for-beginners-and-experienced-developer-984194f517b"
+  },
   
   {
 
@@ -1303,6 +1315,7 @@
     "link": "https://riddhiraj-blog.blogspot.com/2021/07/how-to-use-termux-api-termux-api-in.html"
   },
 
+
   {
     "id": "126",
     "blogTitle": "Top 5 Best Virtual Reality Headsets",
@@ -1446,7 +1459,14 @@
  }, 
 
 
-
+{
+    "id": "174",
+    "blogTitle": "How to become a DevOps engineer",
+    "source": "medium.com",
+    "autherName": "amazingandyyy",
+    "blogTags": [ "DevOps", "CI/CD" , "AWS" ],
+    "link": "https://eladsi.medium.com/the-woman-who-refused-to-shake-president-bidens-hand-211ac731c1c0"
+  },
  
 
 {
