@@ -404,7 +404,21 @@
 "blogTags": ["Open Source", "Developement"],
 
 "link": "https://www.geeksforgeeks.org/android-tutorial/"
-}, 
+},
+{
+
+  "id": "242",
+  
+  "blogTitle": "How to Start Learning C++",
+  
+  "source": "www.usnews.com",
+  
+  "autherName": "Henry Kenyon",
+  
+  "blogTags": ["c++ Intro", "History of c++", "Resources and references"],
+  
+  "link": "https://www.usnews.com/education/learn-c++-guide"
+  },  
 
 {
 "id": "25",
