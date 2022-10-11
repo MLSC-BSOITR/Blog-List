@@ -1376,5 +1376,14 @@
       "crypto"
     ],
     "link": "https://www.trio.dev/blog/blockchain-development-guide"
+  }
+
+  {
+  "id": "202",
+  "blogTitle": "Web3 Music Platform – Create a Web3 Music Streaming Service",
+  "source": "moralis.io",
+  "autherName": "devy",
+  "blogTags": ["Blockchain", "Web3" ],
+  "link": "https://moralis.io/web3-music-platform-create-a-web3-music-streaming-service/"
   },
  
