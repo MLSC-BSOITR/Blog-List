@@ -1289,6 +1289,7 @@
     "link": "https://riddhiraj-blog.blogspot.com/2021/07/how-to-use-termux-api-termux-api-in.html"
   },
 
+
   {
     "id": "126",
     "blogTitle": "Top 5 Best Virtual Reality Headsets",
@@ -1407,7 +1408,14 @@
   "link": "https://opensource.googleblog.com/"
   },
 
-
+{
+    "id": "174",
+    "blogTitle": "How to become a DevOps engineer",
+    "source": "medium.com",
+    "autherName": "amazingandyyy",
+    "blogTags": [ "DevOps", "CI/CD" , "AWS" ],
+    "link": "https://eladsi.medium.com/the-woman-who-refused-to-shake-president-bidens-hand-211ac731c1c0"
+  },
  
 
 {
