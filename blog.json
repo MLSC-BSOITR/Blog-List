@@ -1378,6 +1378,7 @@
   "link": "https://learn.microsoft.com/en-us/archive/blogs/ericlippert/is-c-a-strongly-typed-or-a-weakly-typed-language"
   }
 
+
   {
     "id": "201",
     "blogTitle": "Complete Blockchain Development: The Complete Guide to Getting Started  ",
@@ -1388,7 +1389,48 @@
       "Developement",
       "Blockchain Development",
       "crypto"
-    ],
+   
     "link": "https://www.trio.dev/blog/blockchain-development-guide"
+  }
+
+  {
+  "id": "202",
+  "blogTitle": "Web3 Music Platform – Create a Web3 Music Streaming Service",
+  "source": "moralis.io",
+  "autherName": "devy",
+  "blogTags": ["Blockchain", "Web3" ],
+  "link": "https://moralis.io/web3-music-platform-create-a-web3-music-streaming-service/"
   },
+  {
+    "id": "211",
+    "blogTitle": "RHow to Start Coding: The Ultimate Guide for Beginner Programmers",
+    "source": "blog.hubspot.com",
+    "autherName": "Jamie Juviler",
+    "blogTags": [
+      "Coding"
+    ],
+    "link": "https://blog.hubspot.com/website/how-to-start-coding"
+  },
+
+ {
+  "id": "128",
+  "blogTitle": "Google Open Source",
+  "source": "https://opensource.google/projects",
+  "autherName": "AuthorName",
+  "blogTags": ["Open Source Coding", "projects"],
+  "link": "https://opensource.googleblog.com/"
+  },
+
+
  
+
+{
+  "id": "202",
+  "blogTitle": "Web 3.0 and the dawn of the metaverse",
+  "source": "Namecheap",
+  "autherName": "Daniel Agnew ",
+  "blogTags": ["Web 3.0", "Blockchain", "NFT"],
+  "link": "https://www.namecheap.com/blog/web-3-0-metaverse/?gclid=EAIaIQobChMIr5udyKfX-gIVB7eWCh38SQ9pEAAYASAAEgKfdfD_BwE"
+  }
+]
+
