@@ -404,7 +404,21 @@
 "blogTags": ["Open Source", "Developement"],
 
 "link": "https://www.geeksforgeeks.org/android-tutorial/"
-}, 
+},
+{
+
+  "id": "242",
+  
+  "blogTitle": "How to Start Learning C++",
+  
+  "source": "www.usnews.com",
+  
+  "autherName": "Henry Kenyon",
+  
+  "blogTags": ["c++ Intro", "History of c++", "Resources and references"],
+  
+  "link": "https://www.usnews.com/education/learn-c++-guide"
+  },  
 
 {
 "id": "25",
@@ -1371,6 +1385,8 @@
   "link": "https://newbreedtraining.com/6-ways-studying-hermits/"
   },
 
+
+
   {
     "id": "201",
     "blogTitle": "Complete Blockchain Development: The Complete Guide to Getting Started  ",
@@ -1381,48 +1397,7 @@
       "Developement",
       "Blockchain Development",
       "crypto"
-   
-    "link": "https://www.trio.dev/blog/blockchain-development-guide"
-  }
-
-  {
-  "id": "202",
-  "blogTitle": "Web3 Music Platform – Create a Web3 Music Streaming Service",
-  "source": "moralis.io",
-  "autherName": "devy",
-  "blogTags": ["Blockchain", "Web3" ],
-  "link": "https://moralis.io/web3-music-platform-create-a-web3-music-streaming-service/"
-  },
-  {
-    "id": "211",
-    "blogTitle": "RHow to Start Coding: The Ultimate Guide for Beginner Programmers",
-    "source": "blog.hubspot.com",
-    "autherName": "Jamie Juviler",
-    "blogTags": [
-      "Coding"
     ],
-    "link": "https://blog.hubspot.com/website/how-to-start-coding"
+    "link": "https://www.trio.dev/blog/blockchain-development-guide"
   },
-
- {
-  "id": "128",
-  "blogTitle": "Google Open Source",
-  "source": "https://opensource.google/projects",
-  "autherName": "AuthorName",
-  "blogTags": ["Open Source Coding", "projects"],
-  "link": "https://opensource.googleblog.com/"
-  },
-
-
  
-
-{
-  "id": "202",
-  "blogTitle": "Web 3.0 and the dawn of the metaverse",
-  "source": "Namecheap",
-  "autherName": "Daniel Agnew ",
-  "blogTags": ["Web 3.0", "Blockchain", "NFT"],
-  "link": "https://www.namecheap.com/blog/web-3-0-metaverse/?gclid=EAIaIQobChMIr5udyKfX-gIVB7eWCh38SQ9pEAAYASAAEgKfdfD_BwE"
-  }
-]
-
