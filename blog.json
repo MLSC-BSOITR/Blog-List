@@ -1406,7 +1406,19 @@
   "blogTags": ["Open Source Coding", "projects"],
   "link": "https://opensource.googleblog.com/"
   },
+ {
+  "id": "129",
 
+  "blogTitle": "The Huffington Post",
+
+  "source": "Medium.com",
+
+  "autherName": "Arianna Huffington",
+
+  "blogTags": ["Open Source", "Developement", ""],
+
+  "link": "huffingtonpost.com"
+ }, 
 
  
 
