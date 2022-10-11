@@ -193,7 +193,19 @@
     ],
     "link": "https://dev.to/yaswanthteja/best-way-to-learn-python-1-28d"
   },
-  
+  {
+    "id": "337",
+    "blogTitle": " Best Blockchain Books for Beginners and Experienced Developers",
+    "source": "Medium.com",
+    "autherName": "javarevisited",
+    "blogTags": [
+      "Blockchain technology ",
+      "Blockchain Basics",
+      "Hands-On Blockchain for Python Developers",
+      "Blockchain Programming with JavaScript"
+    ],
+    "link": "https://medium.com/javarevisited/5-best-blockchain-books-for-beginners-and-experienced-developer-984194f517b"
+  },
   
   {
 
@@ -404,7 +416,21 @@
 "blogTags": ["Open Source", "Developement"],
 
 "link": "https://www.geeksforgeeks.org/android-tutorial/"
-}, 
+},
+{
+
+  "id": "242",
+  
+  "blogTitle": "How to Start Learning C++",
+  
+  "source": "www.usnews.com",
+  
+  "autherName": "Henry Kenyon",
+  
+  "blogTags": ["c++ Intro", "History of c++", "Resources and references"],
+  
+  "link": "https://www.usnews.com/education/learn-c++-guide"
+  },  
 
 {
 "id": "25",
@@ -1289,6 +1315,7 @@
     "link": "https://riddhiraj-blog.blogspot.com/2021/07/how-to-use-termux-api-termux-api-in.html"
   },
 
+
   {
     "id": "126",
     "blogTitle": "Top 5 Best Virtual Reality Headsets",
@@ -1342,7 +1369,21 @@
     "autherName": "MARTON ELEK",
     "blogTags": ["Docker", "docker swarm"],
     "link": "https://www.docker.com/blog/clarifying-misconceptions-about-web3-and-its-relevance-with-docker/"
+  },
+  {
+    "id": "129",
+    "blogTitle": "Quick 5 Minutes Guide to CI/CD pipelining using Docker + Circle-CI",
+    "source": "https://medium.com/",
+    "autherName": "Sangam Biradar",
+    "blogTags": ["Docker"],
+    "link": "https://medium.com/@sangambiradar/quick-5-minutes-guide-to-ci-cd-pipelining-using-docker-circle-ci-f8ac92928c9b"
+  },
   }
+
+
+
+
+
 
   {
     "id": "126",
@@ -1363,6 +1404,14 @@
   "blogTags": ["Open Source Coding", "C#" ],
   "link": "https://learn.microsoft.com/en-us/archive/blogs/ericlippert/is-c-a-strongly-typed-or-a-weakly-typed-language"
   }
+  {
+  "id": "127",
+  "blogTitle": "Six Ways Studying Ancient Christian Hermits Reenergized My Faith",
+  "autherName": "Andrew Arndt",
+  "blogTags": ["autobiography"],
+  "link": "https://newbreedtraining.com/6-ways-studying-hermits/"
+  },
+
 
 
   {
@@ -1375,30 +1424,11 @@
       "Developement",
       "Blockchain Development",
       "crypto"
-   
-    "link": "https://www.trio.dev/blog/blockchain-development-guide"
-  }
-
-  {
-  "id": "202",
-  "blogTitle": "Web3 Music Platform – Create a Web3 Music Streaming Service",
-  "source": "moralis.io",
-  "autherName": "devy",
-  "blogTags": ["Blockchain", "Web3" ],
-  "link": "https://moralis.io/web3-music-platform-create-a-web3-music-streaming-service/"
-  },
-  {
-    "id": "211",
-    "blogTitle": "RHow to Start Coding: The Ultimate Guide for Beginner Programmers",
-    "source": "blog.hubspot.com",
-    "autherName": "Jamie Juviler",
-    "blogTags": [
-      "Coding"
     ],
-    "link": "https://blog.hubspot.com/website/how-to-start-coding"
+    "link": "https://www.trio.dev/blog/blockchain-development-guide"
   },
-
  {
+
   "id": "128",
   "blogTitle": "Google Open Source",
   "source": "https://opensource.google/projects",
@@ -1417,6 +1447,36 @@
     "link": "https://eladsi.medium.com/the-woman-who-refused-to-shake-president-bidens-hand-211ac731c1c0"
   },
 
+    "id": "111",
+    "blogTitle": "ReactJS: Props vs. State",
+    "source": "Medium.com",
+    "autherName": "Madhavan Nagarajan",
+    "blogTags": ["ReactJS", "Web Developement"],
+    "link": "https://medium.com/@itIsMadhavan/reactjs-props-vs-state-ff3a7680930d"
+  },
+
+  "id": "129",
+
+  "blogTitle": "The Huffington Post",
+
+  "source": "Medium.com",
+
+  "autherName": "Arianna Huffington",
+
+  "blogTags": ["Open Source", "Developement", ""],
+
+  "link": "huffingtonpost.com"
+ }, 
+
+
+{
+    "id": "174",
+    "blogTitle": "How to become a DevOps engineer",
+    "source": "medium.com",
+    "autherName": "amazingandyyy",
+    "blogTags": [ "DevOps", "CI/CD" , "AWS" ],
+    "link": "https://eladsi.medium.com/the-woman-who-refused-to-shake-president-bidens-hand-211ac731c1c0"
+  },
  
 
 {
@@ -1426,6 +1486,48 @@
   "autherName": "Daniel Agnew ",
   "blogTags": ["Web 3.0", "Blockchain", "NFT"],
   "link": "https://www.namecheap.com/blog/web-3-0-metaverse/?gclid=EAIaIQobChMIr5udyKfX-gIVB7eWCh38SQ9pEAAYASAAEgKfdfD_BwE"
+
+  },
+
+  {
+    "id": "404",
+    "blogTitle": " Blockchain Development: The Complete Guide to Getting Started  ",
+    "source": "https://mbaziira.hashnode.dev/",
+    "autherName": "Anish Thakur",
+    "blogTags": [
+      "Open Source",
+      "Developement",
+      "Blockchain",
+      "crypto"
+    ],
+    "link": "https://www.trio.dev/blog/blockchain-development-guide"
+  },
+
   }
+ {
+    "id": "250",
+    "blogTitle": "Format Preserving Encryption",
+    "source": "DZone",
+    "autherName": "Hemant Mandge",
+    "blogTags": [
+      "Security",
+      "Encryption"]
+   
+  }
+ 
 ]
+ {
+    "id": "203",
+    "blogTitle": "Roadmap to Flutter Develop",
+    "source": "Medum.com",
+    "autherName": "Tanish Pradhan",
+    "blogTags": [
+      "Open Source",
+      "Developement",
+      ""
+    ],
+    "link": "https://medium.com/@tanishpradhan26/roadmap-to-flutter-developer-a0852e292c6a"
+  },
+
+
 
