@@ -1529,5 +1529,62 @@
     "link": "https://medium.com/@tanishpradhan26/roadmap-to-flutter-developer-a0852e292c6a"
   },
 
+  {
+    "id":"204",
+    "blogTitle": "Getting started with Generative Adversial Networks",
+    "source":"Medium.com",
+    "autherName":"Harshal Rudra",
+    "blogTags": [
+      "Generative Adversarial",
+      "Boredapeyc",
+      "Neural Networks",
+      "Deep Learning",
+      "Machine Learning"
+    ],
+    "link":"https://medium.com/@Harshal30/getting-started-with-generative-adversarial-networks-22ab648d84da"
+  },
+
+  {
+    "id":"205",
+    "blogTitle": "Understanding Qubits and Quantum Gates through the schrodinger Equation",
+    "source":"Medium.com",
+    "autherName":"Harshal Rudra",
+    "blogTags": [
+      "Quantum Computing",
+      "Quantum Mechanics",
+      "Schrodinger Equation"
+    ],
+    "link":"https://medium.com/@Harshal30/understanding-qubits-and-quantum-gates-through-the-schr%C3%B6dinger-equation-6a02171dfcb8"
+  },
+
+  {
+    "id":"207",
+    "blogTitle": "What do Humans get wrong about quantum mechanics?",
+    "source":"Medium.com",
+    "autherName":"Nishant",
+    "blogTags": [
+      "Quantum Physics",
+      "Classical Mechanics",
+      "Space",
+      "Physics"
+    ],
+    "link":"https://nishant69.medium.com/what-do-humans-get-wrong-about-quantum-mechanics-6a3d533e0c9b"
+  },
+
+  {
+    "id":"208",
+    "blogTitle": "Time is relative,but how?",
+    "source":"Medium.com",
+    "autherName":"Nishant",
+    "blogTags": [
+      "Physics",
+      "Evolution",
+      "Time",
+      "Mathematics"
+    ],
+    "link":"https://nishant69.medium.com/time-is-relative-e61c4c75ec60"
+  },
+
+
 
 
