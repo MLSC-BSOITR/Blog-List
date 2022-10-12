@@ -1629,12 +1629,27 @@
   },
 
 
+  {
+    "id":"294",
+    "blogTitle": "Smart Contract Development Guide for Business Owners",
+    "source":"https://www.blog.duomly.com/",
+    "autherName":"Radek Fabisiak",
+    "blogTags": [
+      "Smart Contract",
+      "Blockchain",
+      "web3 dev"
+      
+    ],
+    "link":"https://www.blog.duomly.com/smart-contract-development-guide/"
+  },
+
    "id": "294",
    "blogTitle": "Six Ways Studying Ancient Christian Hermits Reenergized My Faith",
    "autherName": "Andrew Arndt",
    "blogTags": ["autobiography"],
    "link": "https://newbreedtraining.com/6-ways-studying-hermits/"
 },
+
 
 
 
