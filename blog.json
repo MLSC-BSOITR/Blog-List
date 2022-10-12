@@ -1598,6 +1598,14 @@
     ],
     "link":"https://ai.googleblog.com/2021/02/machine-learning-for-computer.html"
   },
+  {
+    "id": "294",
+    "blogTitle": "Sololearn:Learn to code",
+    "source": "https://www.sololearn.com/home",
+    "autherName": "Hatsy Rai",
+    "blogTags": [ "c++", "JS" , "Coding for Marketers","Java","CSS","Python","Java","Kotlin" ],
+    "link": "https://www.sololearn.com/home"
+  },
 
   {
     "id":"294",
@@ -1613,6 +1621,13 @@
     "link":"https://medium.com/@moez-62905/top-python-libraries-for-algorithmic-trading-in-2022-6d863bc705b6"
   },
 
+
+   "id": "294",
+   "blogTitle": "Six Ways Studying Ancient Christian Hermits Reenergized My Faith",
+   "autherName": "Andrew Arndt",
+   "blogTags": ["autobiography"],
+   "link": "https://newbreedtraining.com/6-ways-studying-hermits/"
+},
 
 
 
