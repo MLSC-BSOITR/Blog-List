@@ -1598,7 +1598,12 @@
     ],
     "link":"https://ai.googleblog.com/2021/02/machine-learning-for-computer.html"
   },
-
+   {
+        "id" : "294",
+        "courseName" : "Python Regression Analysis: Statistics & Machine Learning",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/python-regression-analysis-statistics-machine-learning/"
+    },
 
 
 
