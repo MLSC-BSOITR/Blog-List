@@ -1,24 +1,11 @@
-How to contribute ?
+"id": "002",
 
-1. Research data you want to contribute like blog topic, source, etc.
-2. Copy the example from below and fill your research in respected coloum in json file.
-3. Recheck your code and push request. (wrong syntax code can be rejected)
-4. You done with your contribution, celebrate!!
+"blogTitle": "How to apply for Airforce",
 
-[
-  {
+"source": "indianairforce",
 
-    "id": "128",
+"autherName": "Author name",
 
-    "blogTitle": "How to apply for GDSC",
+"blogTags": ["Open Source"],
 
-    "source": "Medium.com",
-
-    "autherName": "GDSC BSIOTR",
-
-    "blogTags": ["Open Source", " android Developement", "HACKTOBER"],
-
-    "link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
-
-},
-]
+"link": "https://indianairforce.nic.in/"
