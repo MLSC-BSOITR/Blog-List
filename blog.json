@@ -1571,7 +1571,7 @@
     "link":"https://nishant69.medium.com/what-do-humans-get-wrong-about-quantum-mechanics-6a3d533e0c9b"
   },
 
-  {
+   {
     "id":"208",
     "blogTitle": "Time is relative,but how?",
     "source":"Medium.com",
@@ -1580,7 +1580,7 @@
       "Physics",
       "Evolution",
       "Time",
-      "Mathematics"
+      "Mathematics",
     ],
     "link":"https://nishant69.medium.com/time-is-relative-e61c4c75ec60"
   },
@@ -1597,6 +1597,22 @@
       
     ],
     "link":"https://ai.googleblog.com/2021/02/machine-learning-for-computer.html"
+     
+  },
+    
+    {
+    "id":"294",
+    "blogTitle": "Best JavaScript YouTube Channels",
+    "source":"https://www.codewall.co.uk/",
+    "autherName":"Dan Englishby",
+    "blogTags": [
+      "blogs",
+      "YT channels",
+      "Coding Language"
+      
+    ],
+    "link":"https://www.codewall.co.uk/best-javascript-youtube-channels/"
+      
   },
    {
         "id" : "294",
