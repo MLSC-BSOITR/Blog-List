@@ -27,5 +27,12 @@
     "blogTags": ["Docker"],
     "link": "https://medium.com/@sangambiradar/quick-5-minutes-guide-to-ci-cd-pipelining-using-docker-circle-ci-f8ac92928c9b"
   },
-
+  {
+    "id": "313",
+    "blogTitle": "Windows Privilege Escalation Fundamentals",
+    "source": "hackersploit.org",
+    "authorName": "Alexis (HackerSploit)",
+    "blogTags": ["Cybersecurity", "Penetration Testing", "Hacking", "Windows Privilege Escalation"],
+    "link": "https://hackersploit.org/windows-privilege-escalation-fundamentals/"
+  },
  ]
