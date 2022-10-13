@@ -1571,17 +1571,18 @@
     "link":"https://nishant69.medium.com/what-do-humans-get-wrong-about-quantum-mechanics-6a3d533e0c9b"
   },
 
-  {
+   {
     "id":"208",
-    "blogTitle": "Best JavaScript YouTube Channels",
-    "source":"codewall.co",
-    "autherName":"Dan Englishby",
+    "blogTitle": "Time is relative,but how?",
+    "source":"Medium.com",
+    "autherName":"Nishant",
     "blogTags": [
-      "JavaScript",
-      "YT channels",
-      "Coding Language",
+      "Physics",
+      "Evolution",
+      "Time",
+      "Mathematics",
     ],
-    "link":"https://www.codewall.co.uk/best-javascript-youtube-channels/"
+    "link":"https://nishant69.medium.com/time-is-relative-e61c4c75ec60"
   },
 
    {
@@ -1601,16 +1602,16 @@
     
     {
     "id":"294",
-    "blogTitle": "Machine Learning for Computer Architecture",
-    "source":"ai.googleblog.com",
-    "autherName":"Amir Yazdanbakhsh",
+    "blogTitle": "Best JavaScript YouTube Channels",
+    "source":"https://www.codewall.co.uk/",
+    "autherName":"Dan Englishby",
     "blogTags": [
-      "Machine learning",
-      "archetecture",
-      "computer science"
+      "blogs",
+      "YT channels",
+      "Coding Language"
       
     ],
-    "link":"https://ai.googleblog.com/2021/02/machine-learning-for-computer.html"
+    "link":"https://www.codewall.co.uk/best-javascript-youtube-channels/"
       
   },
 
