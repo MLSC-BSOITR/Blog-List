@@ -1573,16 +1573,15 @@
 
   {
     "id":"208",
-    "blogTitle": "Time is relative,but how?",
-    "source":"Medium.com",
-    "autherName":"Nishant",
+    "blogTitle": "Best JavaScript YouTube Channels",
+    "source":"codewall.co",
+    "autherName":"Dan Englishby",
     "blogTags": [
-      "Physics",
-      "Evolution",
-      "Time",
-      "Mathematics"
+      "JavaScript",
+      "YT channels",
+      "Coding Language",
     ],
-    "link":"https://nishant69.medium.com/time-is-relative-e61c4c75ec60"
+    "link":"https://www.codewall.co.uk/best-javascript-youtube-channels/"
   },
 
    {
@@ -1597,6 +1596,22 @@
       
     ],
     "link":"https://ai.googleblog.com/2021/02/machine-learning-for-computer.html"
+     
+  },
+    
+    {
+    "id":"294",
+    "blogTitle": "Machine Learning for Computer Architecture",
+    "source":"ai.googleblog.com",
+    "autherName":"Amir Yazdanbakhsh",
+    "blogTags": [
+      "Machine learning",
+      "archetecture",
+      "computer science"
+      
+    ],
+    "link":"https://ai.googleblog.com/2021/02/machine-learning-for-computer.html"
+      
   },
 
 
