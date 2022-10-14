@@ -1732,5 +1732,12 @@
     "blogTags": ["Frontend development", "React"],
     "link": "https://www.geeksforgeeks.org/how-to-learn-reactjs-a-complete-guide-for-beginners/"
     },
-
+{
+  "id": "123",
+  "blogTitle": "how to setup reverse proxy using Ngnix",
+  "source": "https://kinsta.com",
+  "authorName": "kinsta",
+  "blogTags": ["Web security"],
+  "link": "https://kinsta.com/blog/reverse-proxy/",
+},
 
