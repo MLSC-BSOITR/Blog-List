@@ -1732,5 +1732,12 @@
     "blogTags": ["Frontend development", "React"],
     "link": "https://www.geeksforgeeks.org/how-to-learn-reactjs-a-complete-guide-for-beginners/"
     },
-
+{
+    "id": "295",
+    "blogTitle": "Bharat Security: Blogs about Security",
+    "source": "https://blog.bharatsec.com/",
+    "autherName": "Mr Kumar",
+    "blogTags": ["CyberSecurity", "Digital Security"],
+    "link": "https://blog.bharatsec.com/"
+    },
 
