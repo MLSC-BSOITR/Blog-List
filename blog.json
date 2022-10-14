@@ -1732,5 +1732,12 @@
     "blogTags": ["Frontend development", "React"],
     "link": "https://www.geeksforgeeks.org/how-to-learn-reactjs-a-complete-guide-for-beginners/"
     },
-
+{
+    "id": "295",
+    "blogTitle": "Artificial Intelligence in Enterprise: Basics, NLP, and Chatbots",
+    "source": "Medium.com",
+    "autherName": "CARLO GUTIERREZ AND ALEX KHIZHNIAK",
+    "blogTags": ["Artificial Intelligence,Basics NLP"],
+    "link": "https://www.altoros.com/blog/artificial-intelligence-in-enterprise-basics-nlp-and-chatbots"
+    },
 
