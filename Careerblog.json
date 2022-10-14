@@ -35,4 +35,12 @@
     "blogTags": ["Cybersecurity", "Penetration Testing", "Hacking", "Windows Privilege Escalation"],
     "link": "https://hackersploit.org/windows-privilege-escalation-fundamentals/"
   },
+ {
+  "id": "314",
+  "blogTitle": "Buzzing:AI",
+  "source": "blogger.com",
+  "authorName": "Aditi Dwivedi",
+  "blogTags" :["Artificial Intelligence"],
+  "link":"https://aditidwivedi91011.blogspot.com/2021/07/buzzing-ai.html"
+ },
  ]
