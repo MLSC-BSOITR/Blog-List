@@ -19,6 +19,15 @@
    "AuthorName": "Navin thakur",
    "link":"http://www.google.com"
   },
+ 
+ {
+   "id":"332
+   "blogTitle":"8-week-sql-challenge-case-study-1-dannys-diner",
+   "source":"dev.to",
+   "AuthorName": "yaswanth Teja ",
+   "link":"https://dev.to/yaswanthteja/8-week-sql-challenge-case-study-1-dannys-diner-420g"
+  },
+
   {
     "id": "29108",
     "blogTitle": "Quick 5 Minutes Guide to CI/CD pipelining using Docker + Circle-CI",
