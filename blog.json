@@ -1767,6 +1767,14 @@
   "blogTags":["Kube prometheus stack","Kubernetes","Minikube","Docker","devops","alerts","notification medium"],
   "link":"https://www.containiq.com/post/prometheus-alertmanager"
 },
+{
+    "id": "297"
+    "blogTitle": "How to learn data structures and algorithms",
+    "source": "https://www.yourdevopsguy.com/",
+    "authorName": "Sergio",
+    "blogTags": ["Data Structures", "Algorithms","Problem-Solving"],
+    "link": "https://www.yourdevopsguy.com/how-to-learn-data-structures-and-algorithms-20-problem-solving-techniques-you-must-know/"
+  },
   {
 
 "id": "298",
