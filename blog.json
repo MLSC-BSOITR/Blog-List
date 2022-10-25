@@ -1800,13 +1800,24 @@
 
 
   {
-"id": "757",
+"id": "299",
 "blogTitle": "Roadmap for website development ",
 "source": "geeksforgeeks",
 "autherName": "geeks",
 "blogTags": ["coding","Development",""],
 "link": "https://www.geeksforgeeks.org/web-tutorial/"
 },
+   {
+  "id": "300",
+  "blogTitle": "Top 5 Machine Learning Trends For 2022",
+  "source": "medium",
+  "autherName": "Suzzy Writes",
+  "blogTags": ["coding","machine leanring"],
+  "link": "https://medium.com/cometheartbeat/top-5-machine-learning-trends-for-2022-e3facd83f18f"
+  },
+
+]
+
 {
 "id": "300",
 "blogTitle": "What exactly is Node.js?",
