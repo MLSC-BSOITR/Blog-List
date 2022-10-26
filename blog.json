@@ -1816,14 +1816,25 @@
   "link": "https://medium.com/cometheartbeat/top-5-machine-learning-trends-for-2022-e3facd83f18f"
   },
 
-]
+{
+  "id": "301",
+  "blogTitle": "What exactly is Node.js?",
+  "source": "medium",
+  "autherName": "Priyesh Patel",
+  "blogTags": ["coding","development"],
+  "link": "https://medium.com/free-code-camp/what-exactly-is-node-js-ae36e97449f5"
+},
 
 {
-"id": "300",
-"blogTitle": "What exactly is Node.js?",
-"source": "medium",
-"autherName": "Priyesh Patel",
-"blogTags": ["coding","development"],
-"link": "https://medium.com/free-code-camp/what-exactly-is-node-js-ae36e97449f5"
+  "id": "302",
+  "blogTitle": "The best Julia programming books going into 2023",
+  "source": "medium",
+  "autherName": "Logan Kilpatrick",
+  "blogTags": ["coding","data science"],
+  "link": "https://medium.com/@logankilpatrick/the-best-julia-programming-books-going-into-2023-ab51adae091c"
 },
+
+]
+
+
     
